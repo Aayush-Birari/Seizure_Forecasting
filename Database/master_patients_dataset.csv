@@ -1,0 +1,1212 @@
+patient_id,patient_name,birth_year,age,gender,baseline_diagnosis,year_of_diagnosis,disease_duration_years,prescribed_medication,date
+P001,Aayush Birari,1995,31,Female,Kaphaja Apasmara,1997,29,oxecarbazepine + brivaracetam + clobazam,17-03-26 09:29
+P002,Sahil Jawale,1959,67,Male,Pittaja Apasmara,1973,53,Levetiracetam,10-05-26 23:07
+P003,Agniv Dutta,2005,21,Female,Vataja Apasmara,2008,18,Levetiracetam + Lamotrigine,19-01-26 01:31
+P004,Spandan Bali,2007,19,Female,Sannipataja Apasmara,2019,7,Levetiracetam,27-02-26 18:21
+P005,Vedant Tendulkar,2005,21,Male,Sannipataja Apasmara,2009,17,Lamotrigine,17-04-26 20:18
+P006,Lekhraj Sonawani,1996,30,Male,Sannipataja Apasmara,2019,7,Lamotrigine + Levetiracetam + Topiramate,15-03-26 07:50
+P007,Vatsala Verma,2004,22,Male,Vataja Apasmara,2018,8,Topiramate,20-05-26 12:43
+P008,Shravani Parte,1967,59,Female,Kaphaja Apasmara,1986,40,Lamotrigine,05-06-26 15:11
+P009,Jeel  Kathiria,1983,43,Female,Vataja Apasmara,2019,7,Phenytoin,09-04-26 14:14
+P010,Aniket Iyer,1983,43,Female,Kaphaja Apasmara,2022,4,Lamotrigine,14-04-26 09:07
+P011,Dhruv Shah,2001,25,Female,Vataja Apasmara,2007,19,Carbamazepine + Valproic Acid,14-04-26 08:59
+P012,Rohan Suri,2002,24,Male,Vataja Apasmara,2018,8,Carbamazepine + Levetiracetam,26-05-26 16:57
+P013,Saniya Brahme,1973,53,Male,Vataja Apasmara,2011,15,Carbamazepine,16-04-26 05:38
+P014,Kshitij Rathod,1969,57,Male,Vataja Apasmara,1973,53,Oxcarbazepine + Carbamazepine + Lamotrigine,28-04-26 21:25
+P015,Shoumik Trivedi,2007,19,Male,Vataja Apasmara,2012,14,Levetiracetam + Carbamazepine,03-03-26 13:39
+P016,Dhruti Dutia,1980,46,Male,Vataja Apasmara,2008,18,Valproic Acid + Levetiracetam + Carbamazepine,22-03-26 10:05
+P017,Tanisha Saha,1982,44,Male,Vataja Apasmara,1986,40,Levetiracetam,11-02-26 08:39
+P018,Sakina Balasinorwala,1998,28,Female,Sannipataja Apasmara,2001,25,Valproic Acid,19-02-26 05:03
+P019,Astha Dubey,2005,21,Female,Pittaja Apasmara,2026,0,Levetiracetam,12-06-26 05:36
+P020,Sanskar Parab,2004,22,Female,Vataja Apasmara,2016,10,Levetiracetam,03-03-26 12:41
+P021,Anjali  Bhat,1955,71,Male,Vataja Apasmara,1961,65,Topiramate + Levetiracetam,12-04-26 13:27
+P022,Manisha Jaiswar,2003,23,Male,Vataja Apasmara,2014,12,Levetiracetam + Valproic Acid,09-05-26 17:47
+P023,Aaboli Shinde,2005,21,Male,Sannipataja Apasmara,2026,0,Carbamazepine,27-05-26 22:33
+P024,Jeet Patel,1995,31,Female,Sannipataja Apasmara,2014,12,Levetiracetam,21-05-26 01:05
+P025,Gaurav Mishra,1971,55,Male,Sannipataja Apasmara,1998,28,Levetiracetam + Phenytoin,04-02-26 13:15
+P026,Shrusti Bhamare,1955,71,Male,Sannipataja Apasmara,2007,19,Valproic Acid + Levetiracetam + Topiramate,18-05-26 06:32
+P027,Vikrant Vaidya,1972,54,Male,Pittaja Apasmara,1997,29,Valproic Acid + Lamotrigine + Levetiracetam,21-03-26 14:09
+P028,Ramanaya Karwa ,1990,36,Male,Sannipataja Apasmara,1995,31,Carbamazepine,15-03-26 20:23
+P029,Vivek  Chavan,1984,42,Female,Pittaja Apasmara,2020,6,Levetiracetam,23-03-26 06:47
+P030,Paridhi Jain,1976,50,Male,Sannipataja Apasmara,2016,10,Levetiracetam + Valproic Acid,22-12-25 23:53
+P031,Harshit Modi,1996,30,Female,Kaphaja Apasmara,2007,19,Levetiracetam,10-01-26 00:37
+P032,Sameer Morya,1981,45,Female,Sannipataja Apasmara,2022,4,Topiramate,04-05-26 07:20
+P033,Akshat Kunder,1979,47,Male,Vataja Apasmara,2010,16,Phenytoin,08-05-26 00:55
+P034,Aaryan Sharma,1997,29,Male,Vataja Apasmara,2018,8,Lamotrigine + Clobazam,21-03-26 12:05
+P035,Kaavya  Nair,1985,41,Female,Vataja Apasmara,1999,27,Oxcarbazepine,08-04-26 09:08
+P036,Shavac Chenna,1972,54,Female,Vataja Apasmara,1979,47,Valproic Acid + Levetiracetam,09-06-26 03:08
+P037,Aditya Belgaonkar,2004,22,Male,Vataja Apasmara,2013,13,Oxcarbazepine,03-03-26 12:50
+P038,Anoushka Nelson,1999,27,Male,Sannipataja Apasmara,2015,11,Carbamazepine + Clobazam + Levetiracetam,21-12-25 09:08
+P039,Rishi Shanbhag,1959,67,Female,Vataja Apasmara,1984,42,Lamotrigine + Carbamazepine,30-01-26 21:52
+P040,Akanksha Agroya,1991,35,Male,Vataja Apasmara,2009,17,Levetiracetam + Clobazam + Lamotrigine,03-03-26 12:05
+P041,Prem Mali,1957,69,Female,Pittaja Apasmara,2002,24,Oxcarbazepine,06-03-26 05:37
+P042,Yash Joshi,1992,34,Male,Pittaja Apasmara,2006,20,Levetiracetam,21-05-26 11:21
+P043,RAM NITIN THOKANE,1955,71,Female,Sannipataja Apasmara,1978,48,Topiramate,24-05-26 22:41
+P044,Charu Malpani,1963,63,Male,Sannipataja Apasmara,1975,51,Levetiracetam,23-01-26 12:03
+P045,Samruddhi Shewale,2008,18,Female,Vataja Apasmara,2013,13,Levetiracetam,14-12-25 19:44
+P046,Rudra Shetye,1968,58,Female,Vataja Apasmara,2016,10,Valproic Acid + Levetiracetam + Lamotrigine,11-01-26 02:59
+P047,Ritesh Jha ,1981,45,Female,Sannipataja Apasmara,2023,3,Levetiracetam + Valproic Acid,13-02-26 18:20
+P048,K Likhita Reddy,1968,58,Male,Pittaja Apasmara,2005,21,Levetiracetam,19-02-26 16:34
+P049,LAKSH RATHI,1992,34,Male,Sannipataja Apasmara,2011,15,Oxcarbazepine,10-01-26 06:46
+P050,Krisha Pisat,1980,46,Male,Vataja Apasmara,1990,36,Valproic Acid + Levetiracetam,16-01-26 14:46
+P051,Ankita Kundu,1964,62,Female,Sannipataja Apasmara,2024,2,Valproic Acid + Oxcarbazepine,04-06-26 16:21
+P052,Shivang  Bhatt,1959,67,Female,Vataja Apasmara,2003,23,Clobazam + Carbamazepine,01-02-26 21:42
+P053,Kinjal Parab,1981,45,Female,Vataja Apasmara,2012,14,Levetiracetam,12-03-26 05:18
+P054,Dubey Kamlesh,1989,37,Male,Vataja Apasmara,2026,0,Valproic Acid + Carbamazepine + Lamotrigine,06-02-26 13:59
+P055,Dakshata Nirbhawane,1978,48,Male,Pittaja Apasmara,2023,3,Carbamazepine,03-06-26 04:56
+P056,Harsh Bhalerao,1992,34,Male,Vataja Apasmara,2021,5,Topiramate,27-02-26 10:52
+P057,Aniket Dakhole,1967,59,Female,Sannipataja Apasmara,1974,52,Levetiracetam,21-03-26 21:27
+P058,Sohom Mallick,2007,19,Male,Vataja Apasmara,2018,8,Valproic Acid + Lamotrigine,17-01-26 07:48
+P059,Shivam Naik,1977,49,Male,Kaphaja Apasmara,2017,9,Valproic Acid + Phenytoin,21-04-26 19:14
+P060,Navya Bhootra,1969,57,Male,Sannipataja Apasmara,1999,27,Levetiracetam,13-02-26 22:02
+P061,Anamay Narkar,1970,56,Female,Pittaja Apasmara,1998,28,Levetiracetam,09-06-26 21:31
+P062,Anam Khan,2002,24,Male,Vataja Apasmara,2005,21,Oxcarbazepine + Levetiracetam,24-02-26 06:06
+P063,Shriya Shetty,1993,33,Male,Vataja Apasmara,2022,4,Oxcarbazepine,12-02-26 00:27
+P064,Anushri Bhaskarwar,1976,50,Male,Vataja Apasmara,2025,1,Carbamazepine,17-03-26 05:32
+P065,Shreya Tiwari,1980,46,Male,Vataja Apasmara,1986,40,Lamotrigine + Levetiracetam,20-01-26 09:26
+P066,Janice Barnes,2005,21,Female,Sannipataja Apasmara,2011,15,Oxcarbazepine,07-06-26 13:04
+P067,Kritika  Dubey,1965,61,Female,Vataja Apasmara,1983,43,Carbamazepine,29-12-25 21:31
+P068,Soham Shashibhushan Mishra,2005,21,Male,Sannipataja Apasmara,2012,14,Lamotrigine,10-04-26 13:46
+P069,Vruddhi Mule,1965,61,Male,Vataja Apasmara,2002,24,Levetiracetam,21-01-26 13:59
+P070,Rishikesh Ramalingam,2000,26,Male,Vataja Apasmara,2020,6,Levetiracetam + Lamotrigine,16-05-26 18:26
+P071,Siddharth Hefa,1993,33,Male,Sannipataja Apasmara,2000,26,Levetiracetam,18-03-26 10:36
+P072,Shweta  Tiwari,1968,58,Male,Vataja Apasmara,1988,38,Valproic Acid,15-01-26 15:26
+P073,Yashvi Lohiya,1979,47,Male,Kaphaja Apasmara,1986,40,Levetiracetam,15-03-26 18:04
+P074,Anas Shaikh,1951,75,Male,Pittaja Apasmara,1959,67,Valproic Acid + Phenytoin + Topiramate,02-03-26 06:11
+P075,Mrunmayi Bhavsar,1975,51,Male,Vataja Apasmara,1979,47,Oxcarbazepine,01-05-26 16:43
+P076,Ameya Surve,1952,74,Male,Vataja Apasmara,1958,68,Topiramate,26-05-26 20:02
+P077,Anvita Choudhary,1972,54,Male,Vataja Apasmara,2004,22,Lamotrigine,29-03-26 21:40
+P078,Sakshi Dwivedi,1975,51,Male,Pittaja Apasmara,1996,30,Carbamazepine,25-01-26 02:50
+P079,Omkar Gupta,1962,64,Male,Pittaja Apasmara,1982,44,Valproic Acid,21-02-26 04:01
+P080,Aadya Deshpande,1984,42,Male,Vataja Apasmara,1998,28,Topiramate + Phenytoin + Valproic Acid,03-02-26 16:15
+P081,Uzair Khan,1983,43,Male,Vataja Apasmara,1991,35,Oxcarbazepine + Lamotrigine,27-05-26 21:29
+P082,Affan Shaikh,1980,46,Male,Vataja Apasmara,1989,37,Lamotrigine,10-05-26 23:19
+P083,Aryan Reshamwala,1967,59,Female,Pittaja Apasmara,2006,20,Clobazam,02-05-26 22:30
+P084,Dharmik Chandel,1998,28,Female,Sannipataja Apasmara,2008,18,Levetiracetam,25-12-25 08:00
+P085,Snehal  Ghagas ,1969,57,Male,Sannipataja Apasmara,1998,28,Valproic Acid,28-04-26 15:28
+P086,Anushka Joshi,1990,36,Male,Vataja Apasmara,2005,21,Clobazam + Lamotrigine,19-02-26 01:46
+P087,Mihir Phalke,2007,19,Male,Vataja Apasmara,2021,5,Levetiracetam,28-03-26 23:28
+P088,Shreya Thapa,1992,34,Male,Pittaja Apasmara,2003,23,Valproic Acid,25-12-25 19:12
+P089,Shantanu Nadar,1979,47,Male,Vataja Apasmara,2021,5,Topiramate,23-02-26 05:37
+P090,Ayush Shaw,1996,30,Female,Vataja Apasmara,2015,11,Valproic Acid + Oxcarbazepine,01-01-26 05:16
+P091,Jatin Vora,2006,20,Male,Vataja Apasmara,2015,11,Topiramate + Valproic Acid,14-02-26 20:46
+P092,Faizan Khan,2002,24,Male,Sannipataja Apasmara,2010,16,Levetiracetam + Oxcarbazepine,27-02-26 13:19
+P093,Chittansh Pancholi,1967,59,Male,Vataja Apasmara,1987,39,Carbamazepine,02-05-26 12:17
+P094,Mohak Jaiswal,1977,49,Male,Vataja Apasmara,2016,10,Lamotrigine,19-04-26 13:03
+P095,Kunal Nayak,2007,19,Female,Pittaja Apasmara,2013,13,Levetiracetam + Lamotrigine,18-02-26 22:03
+P096,Shashank Kulkarni,1975,51,Female,Vataja Apasmara,1991,35,Carbamazepine,20-03-26 17:44
+P097,Tanisha Mukherjee,1951,75,Female,Pittaja Apasmara,1981,45,Levetiracetam,24-01-26 03:20
+P098,Aditya Yawalkar,1961,65,Female,Vataja Apasmara,1980,46,Valproic Acid,21-02-26 05:20
+P099,Riya  Amin,1984,42,Female,Vataja Apasmara,1989,37,Levetiracetam,20-05-26 03:31
+P100,Anish Animesh Sahu,1986,40,Female,Sannipataja Apasmara,2013,13,Lamotrigine + Valproic Acid,17-03-26 05:14
+P101,Omkar Dinde,1955,71,Female,Vataja Apasmara,2016,10,Lamotrigine,13-04-26 17:40
+P102,Aaryan Dubey,1967,59,Female,Pittaja Apasmara,2011,15,Topiramate,07-05-26 09:03
+P103,Akshat Mehra,2006,20,Male,Vataja Apasmara,2021,5,Valproic Acid,21-01-26 03:32
+P104,Subin Kumar,1954,72,Female,Pittaja Apasmara,1976,50,Levetiracetam,02-01-26 16:17
+P105,Palak Nagar,1974,52,Female,Sannipataja Apasmara,1991,35,Levetiracetam + Lamotrigine,13-05-26 17:40
+P106,Aryan Sanganti,1978,48,Female,Vataja Apasmara,1999,27,Valproic Acid + Carbamazepine,17-05-26 03:33
+P107,Yuvaan Shah,1991,35,Male,Sannipataja Apasmara,2019,7,Lamotrigine + Levetiracetam,03-04-26 10:52
+P108,Mit Mhatre,1981,45,Male,Pittaja Apasmara,2022,4,Valproic Acid + Levetiracetam,27-02-26 18:19
+P109,Pranav Pillai,2003,23,Female,Vataja Apasmara,2026,0,Oxcarbazepine,02-03-26 16:27
+P110,Paaras Kokate,1964,62,Male,Vataja Apasmara,1975,51,Carbamazepine,12-01-26 04:17
+P111,Shaunak Khandkar,1994,32,Male,Sannipataja Apasmara,2026,0,Oxcarbazepine,04-03-26 22:16
+P112,Sohan Bhadalkar,1996,30,Male,Pittaja Apasmara,2012,14,Levetiracetam,10-05-26 19:57
+P113,Ananya Dhiman,2003,23,Female,Vataja Apasmara,2022,4,Levetiracetam + Phenytoin,08-04-26 17:07
+P114,Shubham Indulkar,1959,67,Female,Kaphaja Apasmara,1978,48,Valproic Acid + Levetiracetam,05-05-26 23:08
+P115,Vaibhav Udaykumar,1988,38,Male,Sannipataja Apasmara,2019,7,Levetiracetam + Carbamazepine,03-05-26 22:08
+P116,Saundarya Subramaniam,1959,67,Male,Vataja Apasmara,2018,8,Valproic Acid + Topiramate + Levetiracetam,03-06-26 03:08
+P117,Vidita Hassani,1970,56,Female,Pittaja Apasmara,1987,39,Carbamazepine,22-04-26 10:33
+P118,Manas Pandya,1955,71,Female,Vataja Apasmara,1973,53,Valproic Acid,04-02-26 23:04
+P119,Harshit Gupta,1967,59,Male,Vataja Apasmara,2016,10,Levetiracetam,12-01-26 04:11
+P120,Dinesh Bishokarma,1979,47,Male,Pittaja Apasmara,1981,45,Levetiracetam + Topiramate,20-04-26 05:09
+P121,Tanish Gupta,1966,60,Female,Vataja Apasmara,1986,40,Oxcarbazepine + Levetiracetam,28-05-26 20:13
+P122,Praneet Sharma,1989,37,Female,Sannipataja Apasmara,2005,21,Carbamazepine,20-04-26 16:53
+P123,Jeet  Patil,1964,62,Male,Vataja Apasmara,2009,17,Valproic Acid,21-01-26 05:06
+P124,Aditi Agrawal,2007,19,Female,Sannipataja Apasmara,2025,1,Levetiracetam,20-02-26 18:55
+P125,Arnav Atul Waghdhare,1961,65,Male,Pittaja Apasmara,2021,5,Levetiracetam + Lamotrigine,01-04-26 20:48
+P126,Shalini Majumdar,1989,37,Female,Pittaja Apasmara,2016,10,Carbamazepine + Levetiracetam,24-01-26 08:49
+P127,Pushkar Mandore,1998,28,Female,Vataja Apasmara,2008,18,Carbamazepine + Clobazam + Levetiracetam,10-05-26 10:44
+P128,Ayuj Shingte,1989,37,Male,Pittaja Apasmara,2020,6,Levetiracetam + Lamotrigine,27-01-26 20:42
+P129,Neha Paranjape,1966,60,Male,Vataja Apasmara,1980,46,Levetiracetam + Carbamazepine,22-05-26 18:11
+P130,Moksha Jain,1985,41,Male,Vataja Apasmara,2005,21,Lamotrigine,11-02-26 13:23
+P131,Aksh Maheshwari,1995,31,Male,Sannipataja Apasmara,2021,5,Levetiracetam + Lamotrigine,02-06-26 21:22
+P132,Tanisha Lohiya,2000,26,Female,Sannipataja Apasmara,2024,2,Carbamazepine + Clobazam,10-05-26 21:27
+P133,Swarup Valvi,2002,24,Male,Vataja Apasmara,2015,11,Levetiracetam + Carbamazepine,19-02-26 09:48
+P134,Vansh Vijayvargiya,1989,37,Male,Kaphaja Apasmara,2012,14,Topiramate + Lamotrigine + Valproic Acid,28-12-25 10:12
+P135,Rajdeep Jadhav,1995,31,Female,Kaphaja Apasmara,2010,16,Levetiracetam,29-03-26 01:07
+P136,Sameer Khan ,1951,75,Female,Sannipataja Apasmara,2017,9,Valproic Acid + Lamotrigine,05-01-26 22:47
+P137,Parth Sharma,1973,53,Male,Sannipataja Apasmara,1979,47,Levetiracetam,06-06-26 07:03
+P138,Kanishk Gandecha,2003,23,Female,Sannipataja Apasmara,2015,11,Carbamazepine + Levetiracetam,25-05-26 13:09
+P139,Minal Sinha Singh,1987,39,Male,Vataja Apasmara,1992,34,Levetiracetam + Valproic Acid + Lamotrigine,29-04-26 00:10
+P140,Shivam Bajaj,1985,41,Male,Pittaja Apasmara,1994,32,Lamotrigine,13-02-26 11:23
+P141,Yash Pathak,2001,25,Female,Vataja Apasmara,2019,7,Valproic Acid,11-01-26 00:05
+P142,Atharva Ranjan,1993,33,Female,Sannipataja Apasmara,2004,22,Oxcarbazepine,23-05-26 17:14
+P143,Daksh Mishra,2007,19,Female,Vataja Apasmara,2020,6,Valproic Acid + Oxcarbazepine,21-12-25 10:56
+P144,Shlok Gawade,1989,37,Male,Sannipataja Apasmara,2014,12,Phenytoin + Lamotrigine + Levetiracetam,16-12-25 19:50
+P145,Mridul Bindal,1975,51,Female,Vataja Apasmara,2012,14,Carbamazepine + Valproic Acid,14-03-26 02:11
+P146,Sruja Vootla,1982,44,Male,Sannipataja Apasmara,1984,42,Levetiracetam + Oxcarbazepine,03-01-26 08:48
+P147,Shayaan Amir,1974,52,Male,Pittaja Apasmara,2025,1,Topiramate,09-04-26 05:44
+P148,Ishant Choudhari,1955,71,Male,Sannipataja Apasmara,1959,67,Phenytoin,19-04-26 11:05
+P149,Rishi Mane,1964,62,Male,Vataja Apasmara,2004,22,Valproic Acid + Phenytoin,19-03-26 06:39
+P150,Arya Kadam,1962,64,Male,Vataja Apasmara,2008,18,Lamotrigine + Valproic Acid,10-01-26 11:05
+P151,Jahnavi Singh,1958,68,Female,Pittaja Apasmara,2007,19,Carbamazepine,13-03-26 16:27
+P152,Siddhant Mane,1958,68,Male,Vataja Apasmara,1983,43,Lamotrigine,24-05-26 11:01
+P153,Nitisha Goyal,1951,75,Male,Vataja Apasmara,1961,65,Levetiracetam,09-06-26 16:32
+P154,Tanish Shah,1980,46,Male,Vataja Apasmara,2019,7,Valproic Acid + Oxcarbazepine,17-05-26 04:23
+P155,Dev Baliga,1958,68,Female,Vataja Apasmara,2022,4,Levetiracetam,09-06-26 05:12
+P156,Omsiddh Rane,1956,70,Male,Pittaja Apasmara,2026,0,Carbamazepine,27-05-26 11:30
+P157,Pushkar Rai,1962,64,Female,Pittaja Apasmara,1984,42,Topiramate,04-02-26 19:44
+P158,Swayam Vernekar,2000,26,Male,Sannipataja Apasmara,2011,15,Oxcarbazepine,08-01-26 05:39
+P159,Anusha Sarkar,1983,43,Female,Vataja Apasmara,2014,12,Valproic Acid,09-04-26 08:07
+P160,Ishita  Dubey,1956,70,Male,Vataja Apasmara,2002,24,Levetiracetam + Lamotrigine,19-05-26 09:55
+P161,Japsiftee Ahuja,1956,70,Male,Vataja Apasmara,1963,63,Oxcarbazepine,26-04-26 03:22
+P162,Manasi  Patil,1981,45,Female,Vataja Apasmara,1987,39,Lamotrigine,12-02-26 00:00
+P163,Vaibhav Bhatt,2000,26,Male,Pittaja Apasmara,2007,19,Lamotrigine + Levetiracetam,12-03-26 00:17
+P164,Saad Shaikh,1977,49,Male,Vataja Apasmara,2015,11,Clobazam + Lamotrigine,06-02-26 16:05
+P165,Aayush Hardas,2006,20,Male,Sannipataja Apasmara,2012,14,Valproic Acid,06-04-26 00:26
+P166,Aswin Nambiar,1986,40,Female,Vataja Apasmara,2010,16,Levetiracetam,15-04-26 03:40
+P167,Smit Chavan,1953,73,Male,Vataja Apasmara,2003,23,Phenytoin + Valproic Acid + Levetiracetam,03-06-26 09:38
+P168,Aarit Mehta,1993,33,Female,Sannipataja Apasmara,1999,27,Carbamazepine + Levetiracetam,19-01-26 09:29
+P169,Raj Tripathi,1989,37,Female,Sannipataja Apasmara,1998,28,Clobazam,08-04-26 21:19
+P170,Om Thanage,2008,18,Male,Vataja Apasmara,2026,0,Valproic Acid + Lamotrigine,04-03-26 22:03
+P171,Parth Dhande,1992,34,Female,Vataja Apasmara,2016,10,Clobazam + Valproic Acid,24-02-26 11:15
+P172,Khussh Mandar Desai,1958,68,Female,Pittaja Apasmara,2019,7,Carbamazepine + Oxcarbazepine,01-04-26 23:22
+P173,Pratik Patil,1957,69,Female,Vataja Apasmara,1986,40,Valproic Acid,24-04-26 22:40
+P174,Aarush Jain,1980,46,Male,Pittaja Apasmara,1998,28,Topiramate,27-12-25 09:30
+P175,Oshan Shah,1966,60,Female,Sannipataja Apasmara,1994,32,Levetiracetam,06-03-26 02:49
+P176,Surabhi Khutal,1993,33,Male,Pittaja Apasmara,1999,27,Levetiracetam + Carbamazepine,16-05-26 20:12
+P177,Viraj  Pawar,1967,59,Female,Kaphaja Apasmara,1974,52,Valproic Acid,24-01-26 19:00
+P178,Sarthak Wage,1967,59,Female,Sannipataja Apasmara,1987,39,Phenytoin,06-01-26 06:39
+P179,Samruddhi Ambre,1994,32,Female,Kaphaja Apasmara,2010,16,Carbamazepine,27-05-26 16:23
+P180,Priyanshu Shingole,1994,32,Female,Vataja Apasmara,2024,2,Topiramate + Levetiracetam,26-12-25 02:07
+P181,Ananya Santosh Dubey,1962,64,Male,Pittaja Apasmara,2017,9,Oxcarbazepine + Carbamazepine,13-01-26 18:01
+P182,Mihika Chandra,2003,23,Male,Vataja Apasmara,2006,20,Topiramate + Levetiracetam + Valproic Acid,20-12-25 09:16
+P183,Arjun Patil,1975,51,Female,Sannipataja Apasmara,2026,0,Levetiracetam,02-05-26 12:20
+P184,Isha Mungekar,1977,49,Male,Vataja Apasmara,2021,5,Valproic Acid + Phenytoin,26-01-26 17:49
+P185,Om  Bhanushali,1983,43,Female,Sannipataja Apasmara,2012,14,Lamotrigine,20-04-26 12:47
+P186,Anoosha Lad,1999,27,Female,Pittaja Apasmara,2009,17,Topiramate,07-04-26 12:22
+P187,Piyush Sahu,1980,46,Female,Vataja Apasmara,1986,40,Levetiracetam + Lamotrigine,26-02-26 13:00
+P188,Soham Tikam,1969,57,Female,Kaphaja Apasmara,1991,35,Valproic Acid + Levetiracetam,30-03-26 12:44
+P189,Krutika Burkule,1977,49,Female,Sannipataja Apasmara,1998,28,Levetiracetam + Oxcarbazepine,16-05-26 01:18
+P190,Saniya Navelkar,2000,26,Male,Vataja Apasmara,2017,9,Valproic Acid + Topiramate,11-03-26 09:47
+P191,Kena Boricha,1985,41,Female,Vataja Apasmara,1991,35,Lamotrigine,16-04-26 09:20
+P192,Rachit Kale,2007,19,Female,Sannipataja Apasmara,2014,12,Levetiracetam,15-04-26 22:00
+P193,Parth Tendulkar,1962,64,Male,Sannipataja Apasmara,1986,40,Oxcarbazepine,26-03-26 05:25
+P194,Swaraj Jagtap,1966,60,Female,Pittaja Apasmara,2006,20,Phenytoin,10-05-26 22:51
+P195,Shreya Nair,1992,34,Male,Pittaja Apasmara,2002,24,Carbamazepine + Valproic Acid,02-04-26 19:07
+P196,Shail Shaji,1964,62,Male,Vataja Apasmara,1984,42,Topiramate,14-02-26 11:06
+P197,Shaunak Karve,1995,31,Female,Vataja Apasmara,1998,28,Levetiracetam,17-12-25 13:13
+P198,Arnav Padwal,1954,72,Female,Vataja Apasmara,1995,31,Oxcarbazepine,22-02-26 00:15
+P199,Satvik Gupta,1958,68,Male,Vataja Apasmara,1974,52,Lamotrigine,15-03-26 06:40
+P200,Hitansh Gogri,1997,29,Female,Sannipataja Apasmara,1999,27,Levetiracetam,26-02-26 23:25
+P201,Mohammad Khan,1982,44,Male,Vataja Apasmara,1984,42,Clobazam + Oxcarbazepine,26-04-26 06:10
+P202,Ayushi  Gupta,1957,69,Male,Sannipataja Apasmara,2014,12,Carbamazepine + Lamotrigine,10-01-26 23:30
+P203,Vedant Kadam,1951,75,Male,Pittaja Apasmara,1976,50,Valproic Acid,06-02-26 09:00
+P204,Ritessh Santra,1977,49,Female,Vataja Apasmara,2002,24,Clobazam,07-03-26 02:04
+P205,Gokula Kandanuru,1959,67,Male,Pittaja Apasmara,2004,22,Carbamazepine + Levetiracetam,24-02-26 13:10
+P206,Sayam Gada,2005,21,Female,Vataja Apasmara,2009,17,Oxcarbazepine + Phenytoin + Levetiracetam,10-02-26 03:31
+P207,Aditya Baheti,2004,22,Female,Pittaja Apasmara,2026,0,Phenytoin,14-03-26 07:21
+P208,RAI JATIN,1955,71,Female,Vataja Apasmara,1980,46,Phenytoin + Levetiracetam + Valproic Acid,15-02-26 02:11
+P209,Vaibhav Chirag Dave,1955,71,Male,Kaphaja Apasmara,2011,15,Topiramate,03-01-26 06:22
+P210,Dhiti Arun Wadhwa,1980,46,Male,Vataja Apasmara,2024,2,Carbamazepine,27-01-26 11:13
+P211,Sahil Mahesh Birari,1967,59,Female,Vataja Apasmara,2003,23,Phenytoin + Lamotrigine + Levetiracetam,06-02-26 01:48
+P212,Claire Gute,1971,55,Male,Pittaja Apasmara,2024,2,Levetiracetam,14-03-26 08:09
+P213,Darrin Van Huff,1975,51,Female,Vataja Apasmara,2009,17,Lamotrigine,25-05-26 05:49
+P214,Sean O'Donnell,1952,74,Female,Vataja Apasmara,1958,68,Clobazam + Carbamazepine,28-01-26 19:09
+P215,Brosina Hoffman,1968,58,Male,Sannipataja Apasmara,2006,20,Clobazam + Levetiracetam,22-05-26 15:57
+P216,Andrew Allen,2001,25,Female,Pittaja Apasmara,2017,9,Carbamazepine,17-01-26 07:30
+P217,Irene Maddox,1983,43,Female,Sannipataja Apasmara,2024,2,Levetiracetam,13-01-26 18:14
+P218,Harold Pawlan,1972,54,Male,Pittaja Apasmara,2025,1,Levetiracetam + Topiramate + Valproic Acid,28-03-26 01:44
+P219,Pete Kriz,1974,52,Female,Pittaja Apasmara,2012,14,Levetiracetam + Valproic Acid,04-02-26 12:49
+P220,Alejandro Grove,2003,23,Male,Pittaja Apasmara,2008,18,Levetiracetam + Carbamazepine + Phenytoin,15-01-26 11:03
+P221,Zuschuss Donatelli,1952,74,Male,Pittaja Apasmara,2025,1,Levetiracetam,15-02-26 11:04
+P222,Ken Black,1999,27,Male,Pittaja Apasmara,2019,7,Lamotrigine,16-03-26 05:15
+P223,Sandra Flanagan,1960,66,Male,Sannipataja Apasmara,1996,30,Levetiracetam + Lamotrigine,10-06-26 20:27
+P224,Emily Burns,1980,46,Male,Sannipataja Apasmara,1983,43,Levetiracetam,20-05-26 11:46
+P225,Eric Hoffmann,1975,51,Male,Sannipataja Apasmara,2009,17,Topiramate,01-03-26 01:25
+P226,Tracy Blumstein,1992,34,Female,Kaphaja Apasmara,2016,10,Clobazam,29-01-26 11:34
+P227,Matt Abelman,2001,25,Female,Pittaja Apasmara,2011,15,Valproic Acid,04-03-26 12:44
+P228,Gene Hale,1972,54,Female,Kaphaja Apasmara,1982,44,Lamotrigine + Valproic Acid + Oxcarbazepine,09-04-26 17:01
+P229,Steve Nguyen,1988,38,Female,Pittaja Apasmara,2014,12,Levetiracetam + Carbamazepine + Clobazam,01-02-26 16:15
+P230,Linda Cazamias,2001,25,Male,Vataja Apasmara,2010,16,Levetiracetam + Lamotrigine + Carbamazepine,08-06-26 22:27
+P231,Ruben Ausman,1981,45,Female,Vataja Apasmara,1994,32,Valproic Acid + Topiramate,24-04-26 20:12
+P232,Erin Smith,2008,18,Female,Vataja Apasmara,2017,9,Lamotrigine,15-04-26 17:25
+P233,Odella Nelson,1983,43,Female,Vataja Apasmara,1996,30,Clobazam,17-05-26 14:51
+P234,Patrick O'Donnell,1960,66,Male,Vataja Apasmara,1965,61,Levetiracetam,05-05-26 20:39
+P235,Lena Hernandez,1971,55,Female,Sannipataja Apasmara,1994,32,Carbamazepine + Oxcarbazepine + Valproic Acid,16-02-26 10:38
+P236,Darren Powers,1978,48,Male,Sannipataja Apasmara,2013,13,Levetiracetam,22-02-26 21:50
+P237,Janet Molinari,1964,62,Male,Vataja Apasmara,1971,55,Clobazam + Valproic Acid + Lamotrigine,27-12-25 01:39
+P238,Ted Butterfield,1987,39,Female,Vataja Apasmara,2026,0,Lamotrigine,05-03-26 21:05
+P239,Kunst Miller,1982,44,Male,Vataja Apasmara,2026,0,Clobazam,06-01-26 06:37
+P240,Paul Stevenson,1966,60,Male,Sannipataja Apasmara,1979,47,Carbamazepine + Levetiracetam,17-12-25 06:54
+P241,Brendan Sweed,1953,73,Female,Vataja Apasmara,2007,19,Carbamazepine + Levetiracetam,26-03-26 00:25
+P242,Henry MacAllister,1999,27,Male,Vataja Apasmara,2010,16,Clobazam,17-05-26 22:30
+P243,Karen Daniels,1985,41,Male,Pittaja Apasmara,2012,14,Levetiracetam,30-04-26 05:27
+P244,Joel Eaton,1985,41,Female,Vataja Apasmara,2000,26,Levetiracetam + Valproic Acid + Carbamazepine,20-03-26 20:48
+P245,Ken Brennan,1975,51,Male,Vataja Apasmara,2023,3,Clobazam,28-12-25 14:01
+P246,Stewart Carmichael,1978,48,Male,Kaphaja Apasmara,2020,6,Levetiracetam,25-05-26 03:09
+P247,Duane Noonan,1963,63,Male,Vataja Apasmara,2015,11,Levetiracetam,23-05-26 13:26
+P248,Julie Creighton,1955,71,Female,Vataja Apasmara,2022,4,Valproic Acid + Oxcarbazepine,09-01-26 19:32
+P249,Christopher Schild,1984,42,Male,Sannipataja Apasmara,2013,13,Levetiracetam,07-02-26 07:00
+P250,Gary Mitchum,1978,48,Female,Pittaja Apasmara,2002,24,Valproic Acid,23-03-26 14:09
+P251,Jim Sink,2006,20,Male,Vataja Apasmara,2015,11,Levetiracetam + Lamotrigine,24-04-26 14:08
+P252,Karl Braun,1991,35,Male,Vataja Apasmara,2024,2,Levetiracetam + Topiramate,18-01-26 20:28
+P253,Roger Barcio,1951,75,Female,Sannipataja Apasmara,1994,32,Lamotrigine,03-05-26 04:45
+P254,Parhena Norris,1994,32,Male,Sannipataja Apasmara,2018,8,Levetiracetam + Carbamazepine,08-06-26 13:27
+P255,Katherine Ducich,1984,42,Female,Vataja Apasmara,2001,25,Lamotrigine + Carbamazepine,21-02-26 14:43
+P256,Elpida Rittenbach,1964,62,Female,Vataja Apasmara,1982,44,Valproic Acid + Lamotrigine,19-04-26 09:44
+P257,Rick Bensley,1964,62,Male,Vataja Apasmara,2014,12,Carbamazepine,08-03-26 09:16
+P258,Gary Zandusky,2001,25,Female,Vataja Apasmara,2018,8,Clobazam,20-01-26 02:08
+P259,Lena Cacioppo,1990,36,Male,Sannipataja Apasmara,2011,15,Levetiracetam,04-02-26 04:37
+P260,Janet Martin,2004,22,Male,Sannipataja Apasmara,2016,10,Lamotrigine + Valproic Acid,12-03-26 22:54
+P261,Pete Armstrong,1977,49,Female,Pittaja Apasmara,2009,17,Levetiracetam,03-06-26 00:31
+P262,Cynthia Voltz,1974,52,Female,Vataja Apasmara,2007,19,Oxcarbazepine,18-02-26 01:35
+P263,Clay Ludtke,1958,68,Female,Kaphaja Apasmara,1969,57,Lamotrigine + Oxcarbazepine + Phenytoin,13-05-26 11:41
+P264,Ryan Crowe,1973,53,Male,Kaphaja Apasmara,1977,49,Lamotrigine,08-04-26 05:10
+P265,Dave Kipp,1987,39,Female,Sannipataja Apasmara,2025,1,Levetiracetam,17-01-26 03:47
+P266,Greg Guthrie,1981,45,Female,Vataja Apasmara,2008,18,Lamotrigine,01-03-26 10:51
+P267,Alan Dominguez,1977,49,Male,Sannipataja Apasmara,1989,37,Levetiracetam + Valproic Acid,15-12-25 20:44
+P268,Steven Cartwright,1960,66,Female,Vataja Apasmara,1972,54,Lamotrigine + Carbamazepine,14-05-26 14:35
+P269,Philip Fox,1991,35,Male,Kaphaja Apasmara,2014,12,Oxcarbazepine,27-01-26 23:04
+P270,Troy Staebel,1992,34,Female,Sannipataja Apasmara,1994,32,Lamotrigine,16-04-26 12:33
+P271,Lindsay Shagiari,1951,75,Female,Vataja Apasmara,1980,46,Valproic Acid + Levetiracetam,28-04-26 13:36
+P272,Dorothy Wardle,1989,37,Male,Sannipataja Apasmara,1994,32,Levetiracetam,27-03-26 19:06
+P273,Lena Creighton,2007,19,Male,Kaphaja Apasmara,2019,7,Lamotrigine,25-12-25 05:17
+P274,Jonathan Doherty,1965,61,Male,Vataja Apasmara,1984,42,Lamotrigine + Levetiracetam,12-04-26 09:07
+P275,Sally Hughsby,1980,46,Female,Vataja Apasmara,2004,22,Oxcarbazepine,22-03-26 09:28
+P276,Sandra Glassco,1977,49,Female,Pittaja Apasmara,1990,36,Levetiracetam,12-02-26 06:42
+P277,Maureen Gastineau,1974,52,Female,Sannipataja Apasmara,1984,42,Lamotrigine,08-02-26 13:32
+P278,Helen Andreada,1996,30,Male,Kaphaja Apasmara,2013,13,Carbamazepine,24-04-26 13:29
+P279,Justin Ellison,2002,24,Female,Pittaja Apasmara,2015,11,Levetiracetam,07-06-26 11:56
+P280,Tamara Willingham,1977,49,Female,Vataja Apasmara,1993,33,Lamotrigine + Topiramate,25-03-26 17:26
+P281,Stephanie Phelps,1968,58,Female,Vataja Apasmara,2002,24,Valproic Acid,19-12-25 11:10
+P282,Neil Knudson,1996,30,Female,Sannipataja Apasmara,2009,17,Valproic Acid + Phenytoin + Oxcarbazepine,12-01-26 14:51
+P283,Dave Brooks,1972,54,Female,Kaphaja Apasmara,2013,13,Clobazam + Lamotrigine,16-05-26 20:28
+P284,Nora Paige,1962,64,Female,Kaphaja Apasmara,1967,59,Phenytoin + Levetiracetam,07-04-26 19:34
+P285,Ted Trevino,1990,36,Female,Pittaja Apasmara,2008,18,Lamotrigine,31-01-26 04:47
+P286,Eric Murdock,1974,52,Female,Pittaja Apasmara,1999,27,Topiramate,10-05-26 17:36
+P287,Ruben Dartt,1987,39,Female,Vataja Apasmara,2025,1,Levetiracetam,28-02-26 01:17
+P288,Max Jones,1994,32,Male,Pittaja Apasmara,2001,25,Lamotrigine,11-04-26 00:12
+P289,Becky Martin,1962,64,Female,Pittaja Apasmara,1999,27,Clobazam + Levetiracetam,20-01-26 03:55
+P290,Chad Sievert,2005,21,Female,Pittaja Apasmara,2017,9,Lamotrigine + Oxcarbazepine,31-12-25 13:30
+P291,Jennifer Braxton,2001,25,Male,Vataja Apasmara,2020,6,Carbamazepine,04-06-26 16:29
+P292,Shirley Jackson,1965,61,Male,Vataja Apasmara,2023,3,Valproic Acid,15-01-26 06:31
+P293,Jim Kriz,1953,73,Male,Sannipataja Apasmara,1990,36,Levetiracetam,28-03-26 03:42
+P294,David Kendrick,1990,36,Male,Vataja Apasmara,1996,30,Levetiracetam + Oxcarbazepine + Carbamazepine,20-02-26 22:42
+P295,Robert Marley,1987,39,Female,Sannipataja Apasmara,1994,32,Valproic Acid + Carbamazepine,11-02-26 16:54
+P296,Sally Knutson,1979,47,Female,Vataja Apasmara,2000,26,Topiramate + Lamotrigine,02-03-26 21:25
+P297,Frank Merwin,1989,37,Male,Vataja Apasmara,2026,0,Levetiracetam,24-05-26 23:06
+P298,Alice McCarthy,2007,19,Male,Vataja Apasmara,2014,12,Carbamazepine,19-03-26 03:00
+P299,Mark Packer,1990,36,Male,Vataja Apasmara,2014,12,Levetiracetam + Topiramate,12-04-26 05:31
+P300,Mary Zewe,1958,68,Male,Pittaja Apasmara,2012,14,Valproic Acid + Oxcarbazepine,14-04-26 03:52
+P301,Cassandra Brandow,1978,48,Male,Vataja Apasmara,2002,24,Oxcarbazepine,12-01-26 07:22
+P302,Valerie Mitchum,2007,19,Male,Pittaja Apasmara,2011,15,Carbamazepine,01-02-26 10:33
+P303,Fred Hopkins,1985,41,Female,Vataja Apasmara,1996,30,Lamotrigine + Valproic Acid,12-01-26 19:19
+P304,Maria Bertelson,1999,27,Female,Sannipataja Apasmara,2014,12,Valproic Acid,20-12-25 19:12
+P305,Bruce Stewart,1981,45,Male,Pittaja Apasmara,1992,34,Levetiracetam + Oxcarbazepine,11-06-26 11:23
+P306,Logan Currie,2004,22,Male,Pittaja Apasmara,2022,4,Levetiracetam + Topiramate,01-05-26 13:18
+P307,Heather Kirkland,1968,58,Male,Pittaja Apasmara,1994,32,Valproic Acid,15-01-26 00:40
+P308,Laurel Elliston,1965,61,Female,Kaphaja Apasmara,1983,43,Clobazam + Topiramate,28-05-26 12:29
+P309,Joseph Holt,1962,64,Female,Vataja Apasmara,1969,57,Levetiracetam + Valproic Acid,12-05-26 06:57
+P310,Michael Stewart,1965,61,Female,Pittaja Apasmara,2002,24,Lamotrigine,12-06-26 05:09
+P311,Victoria Wilson,1996,30,Female,Vataja Apasmara,2007,19,Levetiracetam + Lamotrigine,29-04-26 22:08
+P312,Jonathan Howell,1969,57,Male,Pittaja Apasmara,1974,52,Carbamazepine,20-02-26 15:02
+P313,Joni Blumstein,1980,46,Female,Vataja Apasmara,1984,42,Topiramate,03-01-26 06:42
+P314,David Smith,1980,46,Female,Sannipataja Apasmara,2020,6,Phenytoin + Lamotrigine,05-06-26 22:47
+P315,Valerie Dominguez,1958,68,Male,Sannipataja Apasmara,2026,0,Levetiracetam,23-03-26 10:16
+P316,Erin Ashbrook,1996,30,Female,Pittaja Apasmara,2025,1,Levetiracetam + Valproic Acid,01-03-26 23:27
+P317,David Bremer,1988,38,Female,Pittaja Apasmara,2009,17,Valproic Acid + Oxcarbazepine,01-03-26 14:23
+P318,Ken Lonsdale,2001,25,Female,Vataja Apasmara,2004,22,Lamotrigine,08-06-26 22:20
+P319,Dianna Wilson,1970,56,Female,Vataja Apasmara,1978,48,Valproic Acid,23-03-26 05:18
+P320,Logan Haushalter,2004,22,Male,Pittaja Apasmara,2011,15,Carbamazepine,07-04-26 12:48
+P321,Kelly Collister,1951,75,Male,Sannipataja Apasmara,2003,23,Oxcarbazepine + Valproic Acid,18-03-26 04:39
+P322,Delfina Latchford,2003,23,Female,Sannipataja Apasmara,2023,3,Clobazam + Oxcarbazepine,09-06-26 05:22
+P323,Dan Reichenbach,2001,25,Male,Sannipataja Apasmara,2026,0,Oxcarbazepine + Valproic Acid,17-02-26 23:47
+P324,Craig Carreira,1990,36,Male,Pittaja Apasmara,2019,7,Valproic Acid + Lamotrigine,02-06-26 01:30
+P325,Dorris liebe,2003,23,Female,Vataja Apasmara,2010,16,Levetiracetam + Carbamazepine,22-05-26 05:36
+P326,Sean Braxton,1967,59,Female,Vataja Apasmara,2020,6,Carbamazepine + Levetiracetam,10-02-26 14:13
+P327,Roy Collins,1979,47,Male,Sannipataja Apasmara,2004,22,Topiramate + Valproic Acid + Carbamazepine,31-03-26 22:10
+P328,Alan Hwang,1964,62,Female,Vataja Apasmara,2001,25,Oxcarbazepine + Levetiracetam,03-03-26 09:48
+P329,Claudia Bergmann,1980,46,Male,Vataja Apasmara,2008,18,Valproic Acid + Carbamazepine,31-12-25 08:22
+P330,Paul Gonzalez,1969,57,Male,Kaphaja Apasmara,1999,27,Valproic Acid,10-04-26 08:11
+P331,Christine Abelman,1961,65,Female,Vataja Apasmara,2014,12,Carbamazepine + Valproic Acid,06-06-26 06:36
+P332,Kristen Hastings,1951,75,Female,Sannipataja Apasmara,1975,51,Levetiracetam + Lamotrigine,29-01-26 05:24
+P333,Barry Blumstein,1953,73,Male,Vataja Apasmara,1977,49,Levetiracetam,22-02-26 20:48
+P334,Andrew Gjertsen,1951,75,Male,Sannipataja Apasmara,1988,38,Carbamazepine,13-03-26 01:55
+P335,Jas O'Carroll,2003,23,Female,Kaphaja Apasmara,2022,4,Levetiracetam + Valproic Acid + Phenytoin,29-12-25 05:47
+P336,Alan Haines,1984,42,Male,Vataja Apasmara,2015,11,Valproic Acid,11-06-26 21:03
+P337,Nick Zandusky,1982,44,Female,Sannipataja Apasmara,2009,17,Lamotrigine + Clobazam,17-05-26 15:55
+P338,Kelly Lampkin,1985,41,Male,Sannipataja Apasmara,2008,18,Valproic Acid + Levetiracetam,06-01-26 21:34
+P339,Alan Schoenberger,1965,61,Male,Sannipataja Apasmara,2019,7,Lamotrigine,10-01-26 14:16
+P340,Corey Roper,1990,36,Male,Sannipataja Apasmara,2020,6,Topiramate,02-05-26 21:48
+P341,Shahid Hopkins,1974,52,Female,Pittaja Apasmara,1983,43,Valproic Acid + Phenytoin,11-02-26 22:51
+P342,Ben Peterman,1992,34,Male,Vataja Apasmara,2004,22,Levetiracetam,03-06-26 17:36
+P343,Thomas Seio,1996,30,Male,Kaphaja Apasmara,2009,17,Valproic Acid + Lamotrigine,31-05-26 01:53
+P344,Andy Gerbode,1997,29,Male,Pittaja Apasmara,2008,18,Levetiracetam + Valproic Acid + Clobazam,24-03-26 02:18
+P345,Sung Pak,1958,68,Female,Vataja Apasmara,1969,57,Phenytoin + Valproic Acid + Carbamazepine,25-02-26 01:52
+P346,Nathan Mautz,1962,64,Male,Pittaja Apasmara,1996,30,Lamotrigine,08-04-26 04:57
+P347,Frank Atkinson,1997,29,Female,Kaphaja Apasmara,2015,11,Levetiracetam,13-03-26 03:51
+P348,Grace Kelly,1990,36,Female,Sannipataja Apasmara,2023,3,Valproic Acid,05-02-26 00:22
+P349,Don Jones,1994,32,Female,Vataja Apasmara,2000,26,Levetiracetam + Topiramate,02-05-26 10:00
+P350,Patrick O'Brill,2003,23,Female,Vataja Apasmara,2019,7,Valproic Acid,18-02-26 11:09
+P351,John Lucas,1992,34,Male,Pittaja Apasmara,2014,12,Levetiracetam,22-12-25 15:10
+P352,Doug Bickford,2005,21,Male,Sannipataja Apasmara,2007,19,Levetiracetam,01-05-26 12:53
+P353,Alyssa Crouse,1956,70,Female,Pittaja Apasmara,1998,28,Levetiracetam + Topiramate,12-04-26 23:40
+P354,Clay Cheatham,1986,40,Female,Vataja Apasmara,2011,15,Levetiracetam + Clobazam,03-05-26 14:14
+P355,Tamara Dahlen,1976,50,Male,Sannipataja Apasmara,2002,24,Levetiracetam + Valproic Acid,24-05-26 06:59
+P356,Adam Bellavance,1971,55,Female,Vataja Apasmara,2002,24,Carbamazepine,07-06-26 00:32
+P357,Jeremy Lonsdale,1977,49,Male,Vataja Apasmara,2001,25,Oxcarbazepine + Topiramate,16-12-25 13:14
+P358,Victoria Brennan,1975,51,Male,Vataja Apasmara,2003,23,Valproic Acid,29-12-25 08:51
+P359,Katrina Willman,1994,32,Male,Sannipataja Apasmara,2020,6,Valproic Acid + Levetiracetam,15-12-25 10:13
+P360,Julia Dunbar,1954,72,Male,Kaphaja Apasmara,2026,0,Carbamazepine + Levetiracetam,23-01-26 18:01
+P361,Michael Kennedy,1954,72,Female,Kaphaja Apasmara,1986,40,Oxcarbazepine + Valproic Acid,22-12-25 16:17
+P362,Guy Thornton,1977,49,Male,Pittaja Apasmara,1988,38,Levetiracetam,12-05-26 19:13
+P363,Arthur Gainer,1988,38,Male,Vataja Apasmara,2020,6,Valproic Acid + Oxcarbazepine + Levetiracetam,08-01-26 00:13
+P364,Muhammed MacIntyre,2000,26,Male,Vataja Apasmara,2009,17,Valproic Acid,10-06-26 16:07
+P365,Allen Rosenblatt,1968,58,Male,Vataja Apasmara,1970,56,Topiramate,30-01-26 07:04
+P366,Russell Applegate,2003,23,Male,Vataja Apasmara,2011,15,Valproic Acid + Oxcarbazepine,06-03-26 16:43
+P367,Alejandro Savely,1983,43,Female,Vataja Apasmara,1987,39,Valproic Acid,17-12-25 23:46
+P368,Laura Armstrong,1969,57,Female,Pittaja Apasmara,1992,34,Valproic Acid,06-01-26 09:22
+P369,Denny Ordway,1993,33,Female,Vataja Apasmara,1996,30,Levetiracetam,26-01-26 06:44
+P370,Dean Katz,1997,29,Male,Vataja Apasmara,2023,3,Lamotrigine + Levetiracetam,29-03-26 03:25
+P371,Nathan Gelder,1969,57,Female,Vataja Apasmara,2015,11,Clobazam + Valproic Acid + Levetiracetam,27-04-26 09:25
+P372,Mike Vittorini,1958,68,Female,Sannipataja Apasmara,1979,47,Oxcarbazepine + Lamotrigine,08-05-26 02:55
+P373,Jack Garza,1960,66,Female,Vataja Apasmara,1964,62,Valproic Acid,12-01-26 04:55
+P374,Bart Pistole,2000,26,Female,Pittaja Apasmara,2002,24,Valproic Acid + Lamotrigine,30-01-26 22:43
+P375,Victor Preis,1999,27,Female,Sannipataja Apasmara,2007,19,Lamotrigine + Valproic Acid,20-04-26 14:06
+P376,Saphhira Shifley,1988,38,Male,Vataja Apasmara,2026,0,Topiramate,17-05-26 12:31
+P377,Anna Gayman,1992,34,Male,Pittaja Apasmara,2013,13,Valproic Acid + Carbamazepine + Lamotrigine,24-01-26 17:37
+P378,Luke Foster,2007,19,Female,Sannipataja Apasmara,2019,7,Clobazam,13-01-26 09:05
+P379,Roy Franzï¿½ï¿½,1992,34,Female,Vataja Apasmara,2026,0,Clobazam + Levetiracetam,26-12-25 17:08
+P380,Keith Herrera,1981,45,Male,Pittaja Apasmara,2007,19,Oxcarbazepine,02-02-26 20:06
+P381,Kimberly Carter,1956,70,Male,Pittaja Apasmara,2003,23,Lamotrigine,08-04-26 14:21
+P382,Caroline Jumper,1992,34,Male,Sannipataja Apasmara,2017,9,Carbamazepine + Lamotrigine,22-04-26 13:07
+P383,Philip Brown,1989,37,Male,Sannipataja Apasmara,1991,35,Levetiracetam + Phenytoin + Oxcarbazepine,28-02-26 07:45
+P384,Michael Paige,1959,67,Female,Sannipataja Apasmara,2013,13,Levetiracetam + Carbamazepine + Phenytoin,16-01-26 11:46
+P385,Natalie Fritzler,1966,60,Male,Pittaja Apasmara,2001,25,Lamotrigine,07-01-26 20:19
+P386,Shirley Daniels,1962,64,Female,Kaphaja Apasmara,2023,3,Clobazam,23-04-26 04:03
+P387,Ken Heidel,1979,47,Male,Sannipataja Apasmara,2012,14,Topiramate + Oxcarbazepine,01-04-26 02:36
+P388,Ross Baird,1989,37,Female,Vataja Apasmara,2013,13,Carbamazepine + Valproic Acid + Oxcarbazepine,17-02-26 05:45
+P389,Mike Kennedy,1972,54,Female,Sannipataja Apasmara,1998,28,Topiramate,11-06-26 16:52
+P390,Philisse Overcash,1954,72,Female,Vataja Apasmara,1986,40,Levetiracetam + Valproic Acid,03-03-26 05:59
+P391,Brenda Bowman,1980,46,Male,Vataja Apasmara,2013,13,Valproic Acid,05-06-26 20:02
+P392,Troy Blackwell,1981,45,Female,Pittaja Apasmara,2015,11,Levetiracetam + Lamotrigine,20-04-26 02:07
+P393,Raymond Buch,1986,40,Male,Vataja Apasmara,1989,37,Lamotrigine,25-05-26 01:51
+P394,Ed Braxton,2002,24,Female,Sannipataja Apasmara,2015,11,Levetiracetam,20-02-26 01:27
+P395,Sanjit Chand,1954,72,Female,Sannipataja Apasmara,1977,49,Levetiracetam,04-04-26 07:36
+P396,Tanja Norvell,1967,59,Male,Vataja Apasmara,2017,9,Carbamazepine + Valproic Acid + Lamotrigine,05-03-26 20:38
+P397,Joni Sundaresam,2001,25,Male,Vataja Apasmara,2021,5,Valproic Acid + Levetiracetam,08-05-26 19:20
+P398,Maya Herman,1952,74,Male,Sannipataja Apasmara,2025,1,Valproic Acid,25-04-26 09:56
+P399,Jeremy Pistek,1968,58,Female,Sannipataja Apasmara,2004,22,Clobazam + Levetiracetam,27-04-26 06:42
+P400,Jeremy Ellison,1958,68,Female,Vataja Apasmara,2002,24,Clobazam,05-06-26 13:23
+P401,John Grady,2001,25,Female,Pittaja Apasmara,2017,9,Valproic Acid,18-04-26 23:54
+P402,Xylona Preis,1988,38,Female,Vataja Apasmara,2004,22,Carbamazepine,31-01-26 21:50
+P403,Erin Mull,2005,21,Female,Vataja Apasmara,2010,16,Levetiracetam,02-01-26 15:07
+P404,Michelle Tran,1963,63,Male,Sannipataja Apasmara,2023,3,Valproic Acid + Levetiracetam,27-04-26 23:13
+P405,Sue Ann Reed,1992,34,Male,Vataja Apasmara,2005,21,Valproic Acid,28-05-26 14:27
+P406,Carl Weiss,1984,42,Female,Vataja Apasmara,1989,37,Lamotrigine + Levetiracetam,08-03-26 05:41
+P407,Astrea Jones,1975,51,Male,Vataja Apasmara,2006,20,Oxcarbazepine + Levetiracetam,15-05-26 13:49
+P408,Sonia Sunley,1960,66,Male,Vataja Apasmara,2005,21,Valproic Acid,12-05-26 03:35
+P409,Rose O'Brian,1957,69,Male,Sannipataja Apasmara,1992,34,Levetiracetam,10-02-26 07:12
+P410,Maribeth Dona,1985,41,Female,Sannipataja Apasmara,2004,22,Levetiracetam,14-03-26 08:00
+P411,Maribeth Yedwab,1992,34,Female,Vataja Apasmara,2004,22,Levetiracetam,19-12-25 17:07
+P412,Christopher Martinez,1954,72,Male,Kaphaja Apasmara,2026,0,Levetiracetam + Valproic Acid,13-01-26 16:35
+P413,Lynn Smith,1951,75,Female,Pittaja Apasmara,1986,40,Valproic Acid,07-06-26 00:17
+P414,Bradley Nguyen,1994,32,Male,Vataja Apasmara,2003,23,Lamotrigine + Levetiracetam + Clobazam,14-02-26 18:53
+P415,Dean Braden,1951,75,Female,Pittaja Apasmara,1965,61,Levetiracetam,21-02-26 07:04
+P416,Matt Connell,1997,29,Female,Vataja Apasmara,2016,10,Levetiracetam + Phenytoin,08-01-26 02:12
+P417,Brian Dahlen,2006,20,Female,Vataja Apasmara,2010,16,Topiramate,23-03-26 08:57
+P418,Patricia Hirasaki,1956,70,Female,Sannipataja Apasmara,2017,9,Levetiracetam + Valproic Acid + Topiramate,14-04-26 06:27
+P419,Mike Gockenbach,1951,75,Male,Sannipataja Apasmara,1982,44,Valproic Acid,22-04-26 16:21
+P420,Karen Bern,1983,43,Female,Vataja Apasmara,1992,34,Levetiracetam,12-04-26 02:12
+P421,Jasper Cacioppo,1986,40,Female,Pittaja Apasmara,2023,3,Levetiracetam + Lamotrigine,26-12-25 15:36
+P422,Rob Lucas,1995,31,Female,Pittaja Apasmara,2015,11,Topiramate,28-12-25 15:29
+P423,Allen Armold,1980,46,Female,Kaphaja Apasmara,1997,29,Phenytoin + Levetiracetam,01-06-26 09:11
+P424,Emily Phan,1974,52,Male,Pittaja Apasmara,2025,1,Clobazam + Topiramate,14-01-26 20:03
+P425,Darren Koutras,1953,73,Male,Vataja Apasmara,1969,57,Levetiracetam,27-05-26 11:08
+P426,Bradley Drucker,1954,72,Male,Sannipataja Apasmara,1989,37,Levetiracetam,28-12-25 21:06
+P427,Liz MacKendrick,1973,53,Male,Pittaja Apasmara,1990,36,Oxcarbazepine + Phenytoin,20-03-26 19:12
+P428,Adrian Shami,1967,59,Female,Vataja Apasmara,2023,3,Valproic Acid + Clobazam,20-12-25 09:47
+P429,Bill Donatelli,1992,34,Male,Pittaja Apasmara,1997,29,Levetiracetam,29-04-26 08:39
+P430,Greg Tran,2002,24,Female,Vataja Apasmara,2010,16,Clobazam,02-02-26 04:44
+P431,Ashley Jarboe,1974,52,Female,Vataja Apasmara,2008,18,Phenytoin,02-02-26 07:26
+P432,Olvera Toch,1954,72,Female,Pittaja Apasmara,2020,6,Levetiracetam,02-03-26 13:21
+P433,Liz Pelletier,1976,50,Female,Sannipataja Apasmara,1981,45,Lamotrigine + Levetiracetam,22-01-26 06:38
+P434,Cynthia Arntzen,1966,60,Female,Pittaja Apasmara,1982,44,Levetiracetam + Valproic Acid + Phenytoin,20-02-26 22:29
+P435,Jeremy Farry,1989,37,Female,Pittaja Apasmara,2001,25,Carbamazepine,28-03-26 09:39
+P436,Frank Preis,1985,41,Female,Sannipataja Apasmara,1993,33,Lamotrigine + Phenytoin,07-06-26 07:37
+P437,Ellis Ballard,1971,55,Female,Vataja Apasmara,1995,31,Valproic Acid + Oxcarbazepine,05-02-26 19:51
+P438,Jennifer Ferguson,1983,43,Male,Sannipataja Apasmara,2002,24,Carbamazepine + Valproic Acid + Lamotrigine,08-03-26 13:53
+P439,Sarah Foster,1999,27,Male,Sannipataja Apasmara,2010,16,Valproic Acid,05-03-26 09:04
+P440,Trudy Glocke,1997,29,Male,Vataja Apasmara,2024,2,Topiramate + Levetiracetam + Carbamazepine,08-01-26 10:56
+P441,Carlos Soltero,1983,43,Male,Vataja Apasmara,2011,15,Valproic Acid + Oxcarbazepine,15-12-25 02:28
+P442,Charles Crestani,1991,35,Female,Pittaja Apasmara,2005,21,Lamotrigine,18-03-26 19:56
+P443,Dianna Vittorini,1982,44,Male,Kaphaja Apasmara,2017,9,Phenytoin + Valproic Acid,30-05-26 01:01
+P444,Bruce Degenhardt,1972,54,Male,Vataja Apasmara,2013,13,Phenytoin + Valproic Acid,22-04-26 05:56
+P445,Zuschuss Carroll,1982,44,Female,Sannipataja Apasmara,1990,36,Levetiracetam,16-03-26 11:15
+P446,Melanie Seite,1966,60,Male,Vataja Apasmara,2008,18,Topiramate + Carbamazepine,10-01-26 05:41
+P447,Lena Radford,1959,67,Male,Sannipataja Apasmara,2021,5,Levetiracetam,22-01-26 16:50
+P448,Theone Pippenger,1995,31,Male,Kaphaja Apasmara,2001,25,Carbamazepine,10-04-26 10:52
+P449,Chloris Kastensmidt,1965,61,Male,Vataja Apasmara,2018,8,Topiramate,24-02-26 05:13
+P450,Alan Shonely,1982,44,Male,Sannipataja Apasmara,2008,18,Levetiracetam + Valproic Acid + Clobazam,25-12-25 16:23
+P451,Andrew Roberts,1973,53,Male,Kaphaja Apasmara,2023,3,Lamotrigine + Phenytoin,09-06-26 23:15
+P452,Nona Balk,1958,68,Male,Pittaja Apasmara,1985,41,Lamotrigine,10-06-26 09:04
+P453,Giulietta Dortch,1994,32,Female,Pittaja Apasmara,2021,5,Topiramate,12-05-26 00:29
+P454,Clytie Kelty,1990,36,Male,Vataja Apasmara,2019,7,Valproic Acid,19-03-26 01:27
+P455,Nat Gilpin,1951,75,Male,Sannipataja Apasmara,1994,32,Valproic Acid + Oxcarbazepine,22-04-26 01:25
+P456,Christina Anderson,2008,18,Male,Vataja Apasmara,2012,14,Clobazam + Topiramate + Levetiracetam,31-05-26 01:39
+P457,Sylvia Foulston,1993,33,Female,Kaphaja Apasmara,2007,19,Levetiracetam,09-02-26 12:33
+P458,Meg O'Connel,1989,37,Male,Sannipataja Apasmara,2021,5,Carbamazepine + Lamotrigine + Valproic Acid,21-05-26 14:23
+P459,Annie Thurman,1967,59,Male,Sannipataja Apasmara,2019,7,Levetiracetam,27-04-26 11:42
+P460,Fred McMath,1973,53,Male,Sannipataja Apasmara,1980,46,Levetiracetam,23-02-26 00:23
+P461,Denny Joy,2001,25,Male,Pittaja Apasmara,2018,8,Lamotrigine + Carbamazepine,27-04-26 10:13
+P462,Max Engle,1981,45,Female,Kaphaja Apasmara,2021,5,Valproic Acid + Carbamazepine,05-05-26 17:12
+P463,Justin Deggeller,1963,63,Male,Sannipataja Apasmara,1965,61,Lamotrigine,25-02-26 06:29
+P464,John Lee,1980,46,Female,Kaphaja Apasmara,2010,16,Valproic Acid + Oxcarbazepine,02-06-26 14:49
+P465,Sean Christensen,2007,19,Male,Vataja Apasmara,2017,9,Valproic Acid,19-03-26 13:28
+P466,Chuck Clark,1980,46,Female,Vataja Apasmara,2022,4,Valproic Acid,24-01-26 11:02
+P467,Anthony Rawles,1956,70,Female,Pittaja Apasmara,1958,68,Levetiracetam,17-05-26 23:33
+P468,Steven Roelle,2008,18,Male,Vataja Apasmara,2014,12,Levetiracetam,11-01-26 02:25
+P469,Craig Reiter,2004,22,Male,Vataja Apasmara,2018,8,Oxcarbazepine + Levetiracetam,17-04-26 18:06
+P470,Eugene Hildebrand,2007,19,Female,Sannipataja Apasmara,2017,9,Levetiracetam,21-02-26 18:38
+P471,Sibella Parks,2006,20,Female,Sannipataja Apasmara,2021,5,Levetiracetam + Valproic Acid + Phenytoin,05-02-26 15:22
+P472,Tiffany House,2005,21,Female,Pittaja Apasmara,2014,12,Lamotrigine,16-02-26 16:37
+P473,Resi Pï¿½ï¿½,1962,64,Male,Sannipataja Apasmara,1973,53,Levetiracetam + Topiramate,30-12-25 17:48
+P474,Rob Beeghly,1987,39,Male,Sannipataja Apasmara,2006,20,Levetiracetam,06-02-26 21:47
+P475,Carol Darley,1969,57,Male,Pittaja Apasmara,1978,48,Oxcarbazepine + Levetiracetam,07-03-26 10:37
+P476,Doug Jacobs,1986,40,Female,Kaphaja Apasmara,2004,22,Lamotrigine,13-04-26 01:41
+P477,Grant Thornton,1966,60,Female,Sannipataja Apasmara,1988,38,Lamotrigine,18-05-26 14:42
+P478,Michael Chen,1971,55,Female,Pittaja Apasmara,1984,42,Valproic Acid + Topiramate,06-02-26 01:01
+P479,Ralph Arnett,2003,23,Male,Vataja Apasmara,2020,6,Phenytoin + Carbamazepine,05-05-26 14:07
+P480,Naresj Patel,2007,19,Male,Sannipataja Apasmara,2019,7,Valproic Acid,04-02-26 02:43
+P481,Alan Barnes,1997,29,Male,Sannipataja Apasmara,2002,24,Oxcarbazepine + Levetiracetam + Lamotrigine,26-12-25 18:06
+P482,Jesus Ocampo,2004,22,Male,Pittaja Apasmara,2008,18,Levetiracetam + Phenytoin,09-06-26 11:52
+P483,Jay Kimmel,1969,57,Male,Vataja Apasmara,2014,12,Topiramate + Oxcarbazepine,09-05-26 02:07
+P484,Brad Norvell,1972,54,Female,Vataja Apasmara,2019,7,Lamotrigine + Oxcarbazepine,04-02-26 09:44
+P485,David Philippe,1990,36,Male,Sannipataja Apasmara,2025,1,Topiramate,15-01-26 02:14
+P486,Tracy Hopkins,1978,48,Male,Vataja Apasmara,2006,20,Valproic Acid + Carbamazepine,27-05-26 09:00
+P487,Arthur Prichep,1982,44,Female,Kaphaja Apasmara,2003,23,Oxcarbazepine,16-03-26 04:26
+P488,Roland Schwarz,1957,69,Female,Sannipataja Apasmara,1977,49,Valproic Acid + Topiramate + Carbamazepine,22-12-25 16:22
+P489,Seth Vernon,1966,60,Male,Sannipataja Apasmara,2014,12,Levetiracetam + Oxcarbazepine,22-03-26 13:01
+P490,Christine Kargatis,1978,48,Male,Pittaja Apasmara,1996,30,Levetiracetam,09-03-26 14:18
+P491,Ross DeVincentis,1956,70,Male,Pittaja Apasmara,2022,4,Valproic Acid + Levetiracetam,26-04-26 21:27
+P492,Mathew Reese,1977,49,Male,Vataja Apasmara,2013,13,Levetiracetam + Oxcarbazepine,06-05-26 23:28
+P493,Steve Chapman,1992,34,Female,Kaphaja Apasmara,2000,26,Valproic Acid,23-01-26 13:57
+P494,Jay Fein,1988,38,Female,Pittaja Apasmara,2019,7,Levetiracetam,03-01-26 00:37
+P495,Emily Grady,1979,47,Male,Vataja Apasmara,1997,29,Oxcarbazepine,17-03-26 22:50
+P496,Darrin Sayre,1986,40,Female,Pittaja Apasmara,2010,16,Levetiracetam + Oxcarbazepine + Valproic Acid,18-12-25 17:42
+P497,Phillina Ober,1974,52,Female,Sannipataja Apasmara,2016,10,Phenytoin,24-12-25 18:48
+P498,Sung Shariari,1959,67,Male,Vataja Apasmara,1995,31,Levetiracetam,29-04-26 15:31
+P499,Peter Bï¿½ï¿,1969,57,Female,Vataja Apasmara,1986,40,Clobazam + Levetiracetam,11-01-26 17:32
+P500,Roland Fjeld,1965,61,Male,Vataja Apasmara,2009,17,Levetiracetam + Lamotrigine,28-03-26 21:35
+P501,Yoseph Carroll,2002,24,Female,Sannipataja Apasmara,2026,0,Lamotrigine + Levetiracetam,13-05-26 16:38
+P502,Debra Catini,1960,66,Male,Vataja Apasmara,1996,30,Lamotrigine,17-03-26 05:58
+P503,Christine Phan,1989,37,Female,Pittaja Apasmara,1996,30,Levetiracetam + Lamotrigine,26-03-26 05:05
+P504,Barry Franzï¿½ï¿½,2008,18,Male,Vataja Apasmara,2018,8,Levetiracetam,12-01-26 15:33
+P505,Lisa Hazard,1980,46,Male,Vataja Apasmara,1998,28,Carbamazepine + Levetiracetam,23-12-25 06:35
+P506,Chris Selesnick,1955,71,Female,Pittaja Apasmara,2010,16,Lamotrigine,20-02-26 23:16
+P507,Anthony Johnson,1957,69,Male,Vataja Apasmara,1987,39,Carbamazepine,12-01-26 02:47
+P508,Benjamin Venier,1970,56,Female,Sannipataja Apasmara,1987,39,Valproic Acid + Levetiracetam + Oxcarbazepine,08-01-26 21:59
+P509,Dan Lawera,1991,35,Male,Pittaja Apasmara,1993,33,Levetiracetam,02-02-26 11:10
+P510,Bryan Mills,1976,50,Male,Vataja Apasmara,1981,45,Levetiracetam,09-02-26 02:57
+P511,Liz Thompson,1977,49,Female,Kaphaja Apasmara,1986,40,Phenytoin,23-12-25 01:36
+P512,Joe Kamberova,1996,30,Female,Vataja Apasmara,2012,14,Lamotrigine + Levetiracetam + Valproic Acid,17-02-26 16:17
+P513,Erica Smith,1988,38,Female,Sannipataja Apasmara,1992,34,Levetiracetam,11-05-26 17:24
+P514,Rick Hansen,1983,43,Female,Pittaja Apasmara,2021,5,Levetiracetam,18-12-25 06:04
+P515,Carlos Daly,2002,24,Female,Pittaja Apasmara,2020,6,Levetiracetam,23-05-26 04:09
+P516,Helen Wasserman,1999,27,Female,Kaphaja Apasmara,2024,2,Levetiracetam + Valproic Acid,29-01-26 05:36
+P517,Mike Caudle,1980,46,Male,Pittaja Apasmara,1993,33,Levetiracetam,23-01-26 02:32
+P518,Gary McGarr,1953,73,Female,Vataja Apasmara,1979,47,Levetiracetam + Clobazam,15-05-26 01:30
+P519,Pauline Johnson,1981,45,Male,Vataja Apasmara,1997,29,Clobazam,17-05-26 11:26
+P520,Bart Watters,1976,50,Male,Vataja Apasmara,2005,21,Carbamazepine + Lamotrigine,14-04-26 03:06
+P521,Toby Ritter,1951,75,Male,Vataja Apasmara,2005,21,Lamotrigine,09-03-26 23:02
+P522,Patrick Gardner,2004,22,Female,Pittaja Apasmara,2024,2,Lamotrigine,02-06-26 19:36
+P523,James Lanier,1973,53,Female,Sannipataja Apasmara,2003,23,Lamotrigine,04-03-26 04:37
+P524,Brian Moss,1964,62,Female,Sannipataja Apasmara,2002,24,Valproic Acid + Lamotrigine,07-03-26 15:26
+P525,Eudokia Martin,2000,26,Male,Vataja Apasmara,2019,7,Valproic Acid + Levetiracetam,07-04-26 00:59
+P526,Art Foster,1952,74,Female,Sannipataja Apasmara,2012,14,Clobazam + Carbamazepine,19-03-26 13:07
+P527,Guy Armstrong,1989,37,Male,Pittaja Apasmara,2005,21,Phenytoin,08-03-26 12:58
+P528,Cyma Kinney,1980,46,Male,Pittaja Apasmara,1990,36,Clobazam,02-02-26 02:35
+P529,Dave Poirier,1985,41,Male,Pittaja Apasmara,1996,30,Levetiracetam + Valproic Acid + Phenytoin,24-05-26 08:50
+P530,Berenike Kampe,1988,38,Male,Pittaja Apasmara,2016,10,Oxcarbazepine + Levetiracetam + Lamotrigine,24-12-25 22:29
+P531,Sanjit Jacobs,1995,31,Female,Pittaja Apasmara,2013,13,Levetiracetam,26-03-26 15:22
+P532,Chuck Magee,2002,24,Female,Vataja Apasmara,2022,4,Lamotrigine + Valproic Acid,28-02-26 10:48
+P533,Anthony Jacobs,1967,59,Male,Vataja Apasmara,2007,19,Levetiracetam + Lamotrigine,09-02-26 09:51
+P534,Linda Southworth,1992,34,Male,Vataja Apasmara,2011,15,Topiramate,22-04-26 11:53
+P535,Guy Phonely,1966,60,Male,Sannipataja Apasmara,1991,35,Oxcarbazepine + Levetiracetam,22-02-26 00:24
+P536,Paul Knutson,2003,23,Female,Vataja Apasmara,2023,3,Levetiracetam + Phenytoin,30-04-26 23:52
+P537,Sally Matthias,1981,45,Male,Pittaja Apasmara,1992,34,Carbamazepine,24-02-26 04:13
+P538,Anthony Garverick,1986,40,Male,Vataja Apasmara,2012,14,Lamotrigine,23-04-26 10:17
+P539,Peter McVee,1981,45,Female,Sannipataja Apasmara,2020,6,Clobazam + Levetiracetam + Valproic Acid,26-03-26 14:46
+P540,Lauren Leatherbury,1970,56,Male,Pittaja Apasmara,2019,7,Topiramate,15-01-26 23:32
+P541,Jill Stevenson,1977,49,Female,Vataja Apasmara,2012,14,Carbamazepine + Topiramate,17-04-26 04:31
+P542,Ed Ludwig,1969,57,Female,Kaphaja Apasmara,2015,11,Lamotrigine,03-06-26 08:22
+P543,Pamela Coakley,1959,67,Female,Kaphaja Apasmara,2011,15,Valproic Acid,08-06-26 13:01
+P544,Hunter Lopez,2007,19,Male,Vataja Apasmara,2012,14,Carbamazepine + Valproic Acid,14-01-26 03:39
+P545,Maribeth Schnelling,1994,32,Male,Vataja Apasmara,2018,8,Levetiracetam,10-03-26 03:10
+P546,George Bell,1992,34,Male,Vataja Apasmara,2025,1,Lamotrigine,10-02-26 20:53
+P547,Justin Ritter,1971,55,Male,Vataja Apasmara,1989,37,Levetiracetam + Topiramate + Oxcarbazepine,03-05-26 17:13
+P548,Bill Eplett,1994,32,Female,Pittaja Apasmara,2000,26,Topiramate,13-01-26 05:00
+P549,Sample Company A,2000,26,Male,Pittaja Apasmara,2008,18,Clobazam + Lamotrigine,19-03-26 06:41
+P550,Rob Williams,2000,26,Male,Sannipataja Apasmara,2023,3,Levetiracetam,04-02-26 07:39
+P551,Sanjit Engle,1994,32,Male,Sannipataja Apasmara,2009,17,Valproic Acid + Oxcarbazepine + Phenytoin,17-01-26 22:54
+P552,Adam Hart,1992,34,Female,Pittaja Apasmara,2011,15,Clobazam + Lamotrigine + Levetiracetam,26-12-25 09:31
+P553,Jessica Myrick,1964,62,Female,Sannipataja Apasmara,1986,40,Levetiracetam,29-03-26 02:56
+P554,Joel Jenkins,1997,29,Male,Pittaja Apasmara,2024,2,Oxcarbazepine,31-03-26 01:28
+P555,Ralph Kennedy,1988,38,Female,Vataja Apasmara,2007,19,Valproic Acid,12-03-26 03:09
+P556,Catherine Glotzbach,1994,32,Male,Pittaja Apasmara,2025,1,Valproic Acid + Topiramate,27-03-26 14:07
+P557,Rachel Payne,1970,56,Male,Vataja Apasmara,1976,50,Levetiracetam + Oxcarbazepine + Lamotrigine,03-05-26 20:34
+P558,Karen Carlisle,1973,53,Male,Vataja Apasmara,2010,16,Clobazam + Valproic Acid,23-03-26 20:07
+P559,Katherine Hughes,1962,64,Female,Kaphaja Apasmara,2026,0,Lamotrigine,24-02-26 01:33
+P560,Greg Hansen,1965,61,Female,Sannipataja Apasmara,1977,49,Lamotrigine + Valproic Acid,20-02-26 11:02
+P561,Scott Williamson,2005,21,Male,Vataja Apasmara,2019,7,Levetiracetam + Valproic Acid,13-03-26 21:01
+P562,Joseph Airdo,1992,34,Female,Sannipataja Apasmara,1995,31,Valproic Acid,02-01-26 19:12
+P563,Daniel Lacy,2008,18,Female,Kaphaja Apasmara,2024,2,Carbamazepine,31-01-26 12:15
+P564,Lindsay Williams,1964,62,Female,Vataja Apasmara,2006,20,Carbamazepine + Valproic Acid + Levetiracetam,13-04-26 20:30
+P565,Thomas Brumley,1965,61,Male,Kaphaja Apasmara,1976,50,Lamotrigine,25-04-26 15:05
+P566,Bryan Spruell,1989,37,Female,Sannipataja Apasmara,1996,30,Levetiracetam + Oxcarbazepine + Valproic Acid,15-05-26 02:16
+P567,Robert Waldorf,1981,45,Male,Pittaja Apasmara,2026,0,Levetiracetam,24-02-26 17:19
+P568,Tracy Zic,2000,26,Female,Vataja Apasmara,2023,3,Valproic Acid,23-02-26 16:32
+P569,Ann Steele,1983,43,Male,Pittaja Apasmara,2014,12,Levetiracetam,19-12-25 04:24
+P570,Toby Swindell,1981,45,Female,Kaphaja Apasmara,2023,3,Clobazam,04-01-26 19:34
+P571,John Grady,1970,56,Male,Kaphaja Apasmara,1989,37,Lamotrigine + Carbamazepine,23-12-25 06:05
+P572,Sara Luxemburg,1965,61,Female,Vataja Apasmara,2017,9,Lamotrigine,28-12-25 01:54
+P573,Troy Staebel,1961,65,Male,Vataja Apasmara,2015,11,Clobazam + Levetiracetam + Valproic Acid,19-03-26 20:08
+P574,Roland Fjeld,2007,19,Female,Kaphaja Apasmara,2017,9,Carbamazepine,19-01-26 03:52
+P575,Mitch Willingham,1978,48,Male,Vataja Apasmara,2017,9,Phenytoin,01-03-26 05:27
+P576,Rob Dowd,1971,55,Female,Pittaja Apasmara,1995,31,Valproic Acid,09-04-26 17:46
+P577,Frank Merwin,1994,32,Male,Vataja Apasmara,2010,16,Lamotrigine,30-01-26 23:13
+P578,Rick Hansen,1974,52,Female,Pittaja Apasmara,2021,5,Topiramate,31-05-26 23:49
+P579,Ryan Akin,1976,50,Male,Pittaja Apasmara,2020,6,Levetiracetam + Valproic Acid,20-03-26 03:27
+P580,Joe Kamberova,1995,31,Male,Vataja Apasmara,2018,8,Levetiracetam + Topiramate,15-05-26 03:51
+P581,Meg Tillman,1979,47,Male,Sannipataja Apasmara,2009,17,Levetiracetam,05-05-26 12:27
+P582,Patrick O'Brill,2004,22,Male,Sannipataja Apasmara,2024,2,Carbamazepine,17-02-26 14:34
+P583,Annie Thurman,1977,49,Male,Vataja Apasmara,2005,21,Levetiracetam + Valproic Acid,22-03-26 07:24
+P584,Vivek Gonzalez,1958,68,Female,Vataja Apasmara,2009,17,Levetiracetam,27-01-26 20:14
+P585,Philip Fox,2006,20,Male,Vataja Apasmara,2020,6,Carbamazepine,08-02-26 04:19
+P586,John Stevenson,1992,34,Male,Sannipataja Apasmara,2026,0,Topiramate,04-03-26 18:28
+P587,Meg O'Connel,1983,43,Female,Vataja Apasmara,2004,22,Oxcarbazepine + Lamotrigine,14-02-26 20:14
+P588,Kalyca Meade,2001,25,Male,Vataja Apasmara,2026,0,Lamotrigine + Levetiracetam,21-02-26 02:22
+P589,Greg Tran,1973,53,Female,Pittaja Apasmara,2023,3,Levetiracetam + Topiramate,29-12-25 02:26
+P590,Philip Brown,1990,36,Female,Vataja Apasmara,2013,13,Oxcarbazepine + Carbamazepine + Levetiracetam,08-04-26 07:13
+P591,Hallie Redmond,1975,51,Male,Vataja Apasmara,2008,18,Lamotrigine + Carbamazepine,15-01-26 15:42
+P592,Deanra Eno,1956,70,Male,Vataja Apasmara,2020,6,Carbamazepine,02-01-26 19:00
+P593,Laura Armstrong,1974,52,Female,Vataja Apasmara,1985,41,Oxcarbazepine + Valproic Acid + Levetiracetam,07-06-26 12:03
+P594,Allen Goldenen,1960,66,Male,Kaphaja Apasmara,1997,29,Lamotrigine,02-03-26 09:22
+P595,Ed Ludwig,2005,21,Female,Vataja Apasmara,2020,6,Topiramate,25-04-26 16:24
+P596,Jennifer Jackson,2007,19,Male,Sannipataja Apasmara,2009,17,Clobazam,04-05-26 00:15
+P597,Jennifer Halladay,1972,54,Male,Sannipataja Apasmara,2011,15,Valproic Acid + Levetiracetam,24-05-26 11:39
+P598,Robert Dilbeck,1981,45,Female,Vataja Apasmara,2024,2,Oxcarbazepine,13-05-26 21:12
+P599,Mary O'Rourke,1983,43,Male,Sannipataja Apasmara,2021,5,Valproic Acid + Levetiracetam,16-12-25 04:44
+P600,Noel Staavos,1968,58,Male,Pittaja Apasmara,1994,32,Levetiracetam,07-06-26 02:24
+P601,Steve Nguyen,1980,46,Male,Sannipataja Apasmara,1990,36,Valproic Acid,17-04-26 07:39
+P602,Zuschuss Carroll,1997,29,Female,Vataja Apasmara,2003,23,Levetiracetam + Valproic Acid,15-04-26 12:25
+P603,Lena Creighton,1998,28,Female,Kaphaja Apasmara,2012,14,Carbamazepine + Clobazam,05-03-26 06:43
+P604,Deirdre Greer,1968,58,Female,Sannipataja Apasmara,1979,47,Carbamazepine + Levetiracetam,13-02-26 12:21
+P605,Nicole Fjeld,1992,34,Male,Vataja Apasmara,2023,3,Topiramate + Lamotrigine,18-02-26 02:42
+P606,Ben Peterman,2002,24,Male,Vataja Apasmara,2010,16,Levetiracetam + Carbamazepine + Oxcarbazepine,07-05-26 23:36
+P607,Matthew Grinstein,1952,74,Female,Vataja Apasmara,1961,65,Levetiracetam + Clobazam,15-02-26 02:10
+P608,Julia Dunbar,2005,21,Male,Sannipataja Apasmara,2020,6,Carbamazepine,22-12-25 01:15
+P609,Theresa Swint,1965,61,Female,Pittaja Apasmara,2013,13,Levetiracetam,25-01-26 00:12
+P610,Brian DeCherney,1989,37,Male,Sannipataja Apasmara,1991,35,Levetiracetam + Valproic Acid,03-06-26 05:10
+P611,Charles McCrossin,1995,31,Female,Kaphaja Apasmara,2023,3,Valproic Acid,20-05-26 01:43
+P612,Ross Baird,1997,29,Female,Vataja Apasmara,2014,12,Carbamazepine + Levetiracetam,05-04-26 07:30
+P613,Skye Norling,1982,44,Male,Pittaja Apasmara,2026,0,Levetiracetam + Carbamazepine,22-12-25 00:24
+P614,Erica Hernandez,1967,59,Male,Vataja Apasmara,2018,8,Carbamazepine,06-02-26 20:08
+P615,Frank Olsen,1965,61,Female,Vataja Apasmara,1993,33,Topiramate,20-12-25 03:15
+P616,Maurice Satty,1968,58,Male,Vataja Apasmara,1978,48,Valproic Acid + Levetiracetam,06-05-26 18:03
+P617,Chad Cunningham,1967,59,Male,Sannipataja Apasmara,2001,25,Levetiracetam,20-12-25 00:04
+P618,Don Weiss,1968,58,Male,Vataja Apasmara,2011,15,Clobazam + Levetiracetam,13-02-26 12:22
+P619,Bill Tyler,2003,23,Female,Pittaja Apasmara,2023,3,Phenytoin,11-06-26 23:14
+P620,Karen Daniels,1995,31,Male,Sannipataja Apasmara,2026,0,Levetiracetam,03-02-26 16:41
+P621,Lena Cacioppo,1969,57,Male,Vataja Apasmara,2017,9,Levetiracetam + Oxcarbazepine,25-05-26 08:40
+P622,Craig Yedwab,1970,56,Male,Sannipataja Apasmara,2009,17,Carbamazepine,06-02-26 17:25
+P623,Lindsay Williams,1991,35,Male,Kaphaja Apasmara,2001,25,Topiramate + Levetiracetam,09-03-26 11:15
+P624,Naresj Patel,1964,62,Male,Sannipataja Apasmara,2016,10,Levetiracetam + Lamotrigine,26-04-26 07:37
+P625,Brad Thomas,1993,33,Male,Vataja Apasmara,2024,2,Levetiracetam + Lamotrigine,05-03-26 04:16
+P626,Penelope Sewall,1961,65,Female,Vataja Apasmara,2019,7,Levetiracetam,02-05-26 14:57
+P627,Noel Staavos,1954,72,Female,Kaphaja Apasmara,1982,44,Phenytoin + Valproic Acid + Clobazam,26-02-26 19:31
+P628,Paul Van Hugh,1960,66,Male,Vataja Apasmara,1965,61,Valproic Acid + Oxcarbazepine + Lamotrigine,09-05-26 08:52
+P629,Resi Pkin,1996,30,Female,Pittaja Apasmara,2007,19,Levetiracetam + Carbamazepine,19-12-25 13:38
+P630,Neoma Murray,1994,32,Male,Sannipataja Apasmara,2021,5,Lamotrigine + Carbamazepine,06-01-26 23:54
+P631,Eric Hoffmann,1970,56,Male,Vataja Apasmara,2009,17,Levetiracetam,04-01-26 12:19
+P632,Russell Applegate,2008,18,Female,Vataja Apasmara,2022,4,Clobazam,12-06-26 10:18
+P633,Dionis Lloyd,1966,60,Female,Sannipataja Apasmara,2022,4,Lamotrigine,28-04-26 06:08
+P634,Christine Sundaresam,1997,29,Male,Pittaja Apasmara,2023,3,Carbamazepine + Levetiracetam,19-01-26 09:13
+P635,Hunter Lopez,1957,69,Female,Sannipataja Apasmara,2003,23,Topiramate,09-02-26 23:04
+P636,Pete Armstrong,1966,60,Male,Sannipataja Apasmara,1980,46,Lamotrigine + Topiramate,14-04-26 19:16
+P637,Brian Dahlen,1964,62,Male,Pittaja Apasmara,1997,29,Levetiracetam + Valproic Acid,06-06-26 15:19
+P638,Greg Guthrie,2007,19,Male,Vataja Apasmara,2023,3,Levetiracetam,08-03-26 03:23
+P639,Joni Sundaresam,2001,25,Male,Pittaja Apasmara,2019,7,Levetiracetam + Oxcarbazepine,22-04-26 02:26
+P640,Lena Radford,1992,34,Male,Kaphaja Apasmara,2003,23,Valproic Acid,14-04-26 09:09
+P641,Frank Hawley,1968,58,Female,Pittaja Apasmara,1997,29,Valproic Acid,01-06-26 00:46
+P642,Arthur Prichep,1957,69,Female,Pittaja Apasmara,2014,12,Clobazam,25-02-26 11:26
+P643,Nat Carroll,2000,26,Female,Vataja Apasmara,2023,3,Lamotrigine + Carbamazepine + Valproic Acid,11-05-26 17:19
+P644,Claudia Bergmann,2005,21,Male,Vataja Apasmara,2026,0,Topiramate,06-06-26 06:25
+P645,Kelly Lampkin,1992,34,Male,Sannipataja Apasmara,1995,31,Levetiracetam,09-04-26 01:19
+P646,Penelope Sewall,1959,67,Female,Vataja Apasmara,1976,50,Carbamazepine + Levetiracetam,23-12-25 14:17
+P647,George Bell,1998,28,Female,Sannipataja Apasmara,2024,2,Valproic Acid,23-01-26 14:07
+P648,Alex Avila,2003,23,Female,Pittaja Apasmara,2011,15,Levetiracetam + Carbamazepine,16-05-26 11:48
+P649,Larry Tron,1969,57,Female,Vataja Apasmara,1992,34,Carbamazepine + Levetiracetam,02-06-26 20:22
+P650,Anne Pryor,1958,68,Female,Sannipataja Apasmara,2021,5,Lamotrigine + Levetiracetam,04-06-26 02:58
+P651,Paul MacIntyre,1959,67,Male,Pittaja Apasmara,2008,18,Levetiracetam + Valproic Acid,06-05-26 05:19
+P652,Kelly Collister,1960,66,Male,Vataja Apasmara,2013,13,Lamotrigine,30-04-26 09:25
+P653,Delfina Latchford,1990,36,Male,Vataja Apasmara,2019,7,Oxcarbazepine,13-04-26 05:53
+P654,Scott Williamson,1988,38,Male,Sannipataja Apasmara,2004,22,Valproic Acid,19-12-25 18:52
+P655,Allen Armold,1986,40,Female,Pittaja Apasmara,2008,18,Oxcarbazepine + Levetiracetam,05-01-26 15:48
+P656,Liz Thompson,1999,27,Female,Pittaja Apasmara,2005,21,Lamotrigine + Carbamazepine,11-02-26 17:30
+P657,Dave Poirier,2000,26,Female,Sannipataja Apasmara,2009,17,Clobazam,29-12-25 15:26
+P658,Adam Bellavance,1987,39,Female,Pittaja Apasmara,2013,13,Carbamazepine + Levetiracetam + Topiramate,01-03-26 06:20
+P659,Alyssa Tate,1988,38,Female,Pittaja Apasmara,2005,21,Valproic Acid,27-03-26 14:16
+P660,Joel Eaton,1966,60,Female,Vataja Apasmara,1985,41,Levetiracetam + Valproic Acid,01-05-26 22:27
+P661,Cathy Armstrong,1963,63,Male,Sannipataja Apasmara,2020,6,Clobazam + Oxcarbazepine,29-01-26 13:32
+P662,Dave Brooks,1975,51,Male,Sannipataja Apasmara,1978,48,Valproic Acid + Lamotrigine,18-04-26 13:29
+P663,Rob Beeghly,1972,54,Male,Vataja Apasmara,1982,44,Valproic Acid + Carbamazepine,05-03-26 09:59
+P664,Harold Ryan,1994,32,Male,Vataja Apasmara,2011,15,Levetiracetam,23-04-26 15:59
+P665,Bradley Talbott,1992,34,Male,Vataja Apasmara,2007,19,Levetiracetam,03-03-26 01:23
+P666,Nat Gilpin,2007,19,Male,Vataja Apasmara,2022,4,Lamotrigine,26-12-25 10:04
+P667,Zuschuss Carroll,1972,54,Male,Vataja Apasmara,2020,6,Topiramate,10-04-26 23:20
+P668,Linda Southworth,1968,58,Female,Pittaja Apasmara,1987,39,Valproic Acid,18-03-26 05:45
+P669,Larry Hughes,2003,23,Male,Sannipataja Apasmara,2016,10,Carbamazepine,03-01-26 13:04
+P670,Steven Ward,1971,55,Male,Sannipataja Apasmara,1977,49,Valproic Acid + Topiramate,10-02-26 17:12
+P671,Stefania Perrino,1995,31,Male,Pittaja Apasmara,2018,8,Levetiracetam + Valproic Acid,26-02-26 14:56
+P672,Ben Ferrer,1999,27,Female,Vataja Apasmara,2012,14,Lamotrigine + Levetiracetam,22-01-26 00:39
+P673,Becky Martin,1996,30,Male,Sannipataja Apasmara,2018,8,Valproic Acid,26-04-26 06:06
+P674,Kean Thornton,1971,55,Male,Vataja Apasmara,1995,31,Topiramate,25-01-26 11:50
+P675,Brooke Gillingham,1955,71,Female,Vataja Apasmara,2017,9,Levetiracetam + Carbamazepine,14-05-26 22:37
+P676,Patrick Gardner,1988,38,Female,Vataja Apasmara,1996,30,Oxcarbazepine + Carbamazepine + Valproic Acid,26-04-26 02:50
+P677,Greg Matthias,1985,41,Male,Sannipataja Apasmara,2000,26,Oxcarbazepine,01-04-26 14:08
+P678,Meg O'Connel,1985,41,Female,Sannipataja Apasmara,2016,10,Lamotrigine + Levetiracetam,17-05-26 17:19
+P679,Eva Jacobs,1980,46,Female,Vataja Apasmara,2015,11,Lamotrigine + Clobazam,18-01-26 08:55
+P680,Nora Preis,1998,28,Male,Kaphaja Apasmara,2022,4,Levetiracetam + Carbamazepine,07-05-26 05:27
+P681,Doug Jacobs,1996,30,Female,Pittaja Apasmara,2004,22,Lamotrigine + Oxcarbazepine,15-05-26 15:38
+P682,Irene Maddox,1955,71,Female,Vataja Apasmara,1989,37,Levetiracetam,11-04-26 21:15
+P683,Mick Hernandez,2004,22,Male,Sannipataja Apasmara,2024,2,Valproic Acid,24-03-26 10:41
+P684,Ross Baird,2003,23,Female,Pittaja Apasmara,2016,10,Topiramate + Levetiracetam,10-03-26 11:26
+P685,Jocasta Rupert,1983,43,Male,Sannipataja Apasmara,2021,5,Carbamazepine + Valproic Acid,23-02-26 04:07
+P686,Suzanne McNair,1960,66,Female,Kaphaja Apasmara,1980,46,Levetiracetam,06-06-26 19:31
+P687,Christine Sundaresam,1982,44,Female,Vataja Apasmara,2024,2,Oxcarbazepine,24-12-25 18:35
+P688,Chris Cortes,1990,36,Male,Vataja Apasmara,2026,0,Levetiracetam,05-06-26 20:07
+P689,Phillip Flathmann,2002,24,Female,Sannipataja Apasmara,2009,17,Levetiracetam,14-03-26 21:44
+P690,Julie Creighton,1961,65,Female,Vataja Apasmara,2018,8,Carbamazepine + Valproic Acid,23-12-25 08:32
+P691,Dan Campbell,2001,25,Female,Vataja Apasmara,2012,14,Levetiracetam + Lamotrigine + Phenytoin,23-03-26 12:11
+P692,Sibella Parks,1966,60,Female,Vataja Apasmara,2004,22,Valproic Acid + Lamotrigine,01-04-26 23:46
+P693,Maurice Satty,2004,22,Female,Sannipataja Apasmara,2025,1,Topiramate,13-03-26 10:24
+P694,Bryan Davis,1977,49,Female,Pittaja Apasmara,2016,10,Oxcarbazepine + Levetiracetam,19-05-26 06:02
+P695,Karen Carlisle,1967,59,Male,Pittaja Apasmara,1996,30,Levetiracetam,17-12-25 13:56
+P696,Toby Ritter,1973,53,Male,Vataja Apasmara,2015,11,Valproic Acid + Topiramate,17-12-25 21:54
+P697,Sue Ann Reed,2007,19,Female,Sannipataja Apasmara,2009,17,Lamotrigine,15-01-26 22:41
+P698,Katrina Willman,1957,69,Female,Vataja Apasmara,1966,60,Clobazam,24-12-25 20:33
+P699,Gene McClure,1975,51,Female,Sannipataja Apasmara,2008,18,Levetiracetam + Lamotrigine,05-06-26 11:04
+P700,Alan Dominguez,2004,22,Female,Vataja Apasmara,2012,14,Valproic Acid,01-06-26 22:08
+P701,Todd Boyes,1997,29,Female,Pittaja Apasmara,2018,8,Oxcarbazepine + Phenytoin + Valproic Acid,19-05-26 15:55
+P702,Chuck Clark,1997,29,Female,Pittaja Apasmara,2019,7,Oxcarbazepine + Levetiracetam,11-05-26 14:02
+P703,Philip Fox,2007,19,Female,Kaphaja Apasmara,2015,11,Topiramate + Lamotrigine + Valproic Acid,11-05-26 16:31
+P704,Justin Hirsh,1975,51,Female,Kaphaja Apasmara,1988,38,Valproic Acid,06-03-26 22:00
+P705,Erica Bern,1973,53,Male,Vataja Apasmara,2022,4,Levetiracetam,15-04-26 16:54
+P706,Quincy Jones,1966,60,Female,Vataja Apasmara,2016,10,Lamotrigine + Levetiracetam,09-04-26 05:39
+P707,Alex Avila,1980,46,Female,Pittaja Apasmara,2009,17,Carbamazepine,28-01-26 14:28
+P708,Logan Currie,2000,26,Male,Vataja Apasmara,2013,13,Levetiracetam,30-05-26 10:31
+P709,Tracy Collins,1981,45,Female,Kaphaja Apasmara,2010,16,Levetiracetam,29-03-26 15:49
+P710,Chuck Sachs,1983,43,Female,Vataja Apasmara,2018,8,Phenytoin + Lamotrigine,27-03-26 23:45
+P711,Bryan Mills,1955,71,Female,Vataja Apasmara,2024,2,Carbamazepine,16-02-26 02:35
+P712,Roy Collins,1985,41,Female,Pittaja Apasmara,1988,38,Levetiracetam + Valproic Acid + Clobazam,24-02-26 10:23
+P713,Fred McMath,1976,50,Female,Vataja Apasmara,1992,34,Phenytoin,23-12-25 15:34
+P714,Pete Kriz,1999,27,Female,Vataja Apasmara,2011,15,Levetiracetam + Valproic Acid,08-03-26 20:56
+P715,Henry Goldwyn,1965,61,Female,Vataja Apasmara,2022,4,Topiramate,11-02-26 13:26
+P716,Helen Andreada,1956,70,Female,Vataja Apasmara,1997,29,Valproic Acid,03-02-26 16:22
+P717,Laurel Workman,2004,22,Male,Vataja Apasmara,2020,6,Levetiracetam + Carbamazepine,08-05-26 05:29
+P718,Matt Collins,1974,52,Male,Vataja Apasmara,2020,6,Clobazam,27-04-26 06:34
+P719,Liz Preis,1975,51,Female,Vataja Apasmara,2004,22,Clobazam,30-03-26 14:01
+P720,Evan Bailliet,1972,54,Female,Vataja Apasmara,2021,5,Levetiracetam + Lamotrigine + Topiramate,01-03-26 23:53
+P721,George Zrebassa,1999,27,Male,Vataja Apasmara,2021,5,Valproic Acid + Carbamazepine,22-02-26 02:18
+P722,Laurel Elliston,1971,55,Male,Pittaja Apasmara,1993,33,Topiramate,21-03-26 21:34
+P723,Cathy Prescott,1999,27,Female,Kaphaja Apasmara,2021,5,Lamotrigine,18-12-25 04:56
+P724,Frank Gastineau,2003,23,Female,Sannipataja Apasmara,2011,15,Topiramate + Carbamazepine,17-02-26 01:13
+P725,Lisa DeCherney,1962,64,Male,Pittaja Apasmara,1987,39,Oxcarbazepine + Valproic Acid,28-02-26 23:56
+P726,Alejandro Ballentine,1993,33,Male,Vataja Apasmara,1998,28,Valproic Acid + Levetiracetam,19-02-26 01:21
+P727,Michael Nguyen,1994,32,Female,Pittaja Apasmara,2006,20,Carbamazepine + Levetiracetam + Topiramate,26-01-26 00:58
+P728,Harold Pawlan,1952,74,Male,Vataja Apasmara,1970,56,Lamotrigine,21-05-26 00:36
+P729,Jim Radford,2001,25,Female,Sannipataja Apasmara,2018,8,Carbamazepine,03-05-26 06:23
+P730,Jamie Frazer,1968,58,Male,Vataja Apasmara,1972,54,Levetiracetam,14-01-26 19:58
+P731,Chad McGuire,1972,54,Male,Vataja Apasmara,1976,50,Valproic Acid + Levetiracetam,23-12-25 07:20
+P732,Aaron Smayling,2000,26,Female,Vataja Apasmara,2016,10,Levetiracetam + Lamotrigine + Valproic Acid,24-03-26 21:00
+P733,Karl Braun,1973,53,Female,Kaphaja Apasmara,1984,42,Carbamazepine,15-01-26 12:14
+P734,Bradley Nguyen,1965,61,Female,Vataja Apasmara,1983,43,Valproic Acid,18-05-26 15:10
+P735,Beth Paige,1962,64,Female,Vataja Apasmara,2005,21,Carbamazepine,01-03-26 00:03
+P736,Lindsay Williams,1985,41,Male,Sannipataja Apasmara,2002,24,Valproic Acid,01-04-26 19:07
+P737,Natalie DeCherney,1952,74,Female,Kaphaja Apasmara,1980,46,Phenytoin + Lamotrigine,13-05-26 00:08
+P738,Larry Blacks,1984,42,Female,Vataja Apasmara,2018,8,Oxcarbazepine + Topiramate,08-05-26 21:29
+P739,Kean Takahito,1958,68,Male,Vataja Apasmara,2000,26,Oxcarbazepine,05-05-26 09:18
+P740,Harry Marie,2007,19,Female,Vataja Apasmara,2017,9,Phenytoin + Clobazam,29-03-26 04:10
+P741,Ann Blume,1980,46,Female,Vataja Apasmara,1989,37,Clobazam + Valproic Acid,30-12-25 09:12
+P742,Sam Zeldin,1983,43,Male,Vataja Apasmara,2016,10,Phenytoin + Oxcarbazepine + Valproic Acid,17-01-26 15:44
+P743,Michael Granlund,1997,29,Female,Kaphaja Apasmara,2007,19,Carbamazepine,25-03-26 03:19
+P744,Kunst Miller,1954,72,Male,Pittaja Apasmara,2025,1,Levetiracetam + Clobazam,02-05-26 09:36
+P745,Christina Anderson,1982,44,Male,Pittaja Apasmara,1995,31,Valproic Acid,23-04-26 19:47
+P746,Valerie Dominguez,1966,60,Female,Sannipataja Apasmara,2021,5,Carbamazepine,03-03-26 09:08
+P747,Julie Kriz,1958,68,Female,Kaphaja Apasmara,2000,26,Levetiracetam,26-04-26 01:44
+P748,Paul Prost,1963,63,Male,Vataja Apasmara,2005,21,Phenytoin,20-03-26 01:47
+P749,Yana Sorensen,1961,65,Female,Vataja Apasmara,1963,63,Topiramate + Clobazam,07-05-26 03:14
+P750,Cyma Kinney,1985,41,Female,Vataja Apasmara,2026,0,Topiramate,11-06-26 04:20
+P751,Nat Carroll,2005,21,Male,Vataja Apasmara,2020,6,Levetiracetam + Valproic Acid,10-04-26 08:38
+P752,Katherine Murray,1991,35,Female,Vataja Apasmara,2022,4,Carbamazepine + Levetiracetam,31-01-26 22:14
+P753,Gary Mitchum,1983,43,Male,Sannipataja Apasmara,1991,35,Carbamazepine + Oxcarbazepine + Lamotrigine,21-05-26 09:19
+P754,Shirley Daniels,1998,28,Male,Vataja Apasmara,2000,26,Levetiracetam,28-01-26 23:40
+P755,Karen Daniels,1962,64,Female,Sannipataja Apasmara,1986,40,Valproic Acid,22-03-26 06:42
+P756,Adrian Barton,1980,46,Male,Vataja Apasmara,2002,24,Phenytoin + Levetiracetam,21-01-26 02:55
+P757,Jonathan Doherty,1997,29,Male,Vataja Apasmara,2009,17,Levetiracetam + Carbamazepine,09-02-26 12:00
+P758,Helen Abelman,1994,32,Female,Sannipataja Apasmara,2016,10,Lamotrigine + Clobazam,07-02-26 12:06
+P759,Beth Thompson,2008,18,Male,Vataja Apasmara,2013,13,Levetiracetam,02-04-26 14:10
+P760,Stuart Van,1972,54,Male,Pittaja Apasmara,2013,13,Valproic Acid,13-03-26 14:14
+P761,Rick Wilson,1994,32,Female,Sannipataja Apasmara,2007,19,Levetiracetam + Carbamazepine,15-01-26 22:35
+P762,Damala Kotsonis,1966,60,Male,Vataja Apasmara,2009,17,Carbamazepine + Levetiracetam,01-02-26 15:20
+P763,Liz Thompson,1990,36,Female,Vataja Apasmara,2019,7,Levetiracetam + Lamotrigine,02-06-26 15:33
+P764,Frank Preis,1967,59,Female,Vataja Apasmara,2016,10,Levetiracetam + Valproic Acid,24-12-25 10:37
+P765,Shui Tom,1988,38,Male,Vataja Apasmara,2025,1,Phenytoin + Carbamazepine,03-01-26 21:39
+P766,Joel Eaton,1951,75,Female,Kaphaja Apasmara,1998,28,Valproic Acid,29-01-26 12:30
+P767,Bill Donatelli,1971,55,Male,Pittaja Apasmara,1982,44,Valproic Acid + Lamotrigine,03-01-26 21:57
+P768,Michael Moore,1989,37,Male,Kaphaja Apasmara,2010,16,Phenytoin,10-03-26 18:53
+P769,Pauline Webber,1962,64,Female,Sannipataja Apasmara,2016,10,Levetiracetam + Valproic Acid,26-05-26 14:20
+P770,Shaun Chance,1993,33,Female,Sannipataja Apasmara,2025,1,Valproic Acid + Levetiracetam,09-04-26 12:33
+P771,Ken Lonsdale,1960,66,Male,Sannipataja Apasmara,1998,28,Carbamazepine,28-04-26 20:14
+P772,Theresa Swint,2007,19,Male,Pittaja Apasmara,2023,3,Valproic Acid + Lamotrigine + Levetiracetam,10-02-26 05:55
+P773,Jennifer Braxton,1978,48,Female,Sannipataja Apasmara,1994,32,Levetiracetam + Carbamazepine + Lamotrigine,23-04-26 00:45
+P774,Thais Sissman,1994,32,Male,Sannipataja Apasmara,2012,14,Carbamazepine,19-04-26 21:52
+P775,Mark Cousins,1978,48,Male,Sannipataja Apasmara,2018,8,Lamotrigine + Topiramate,28-02-26 05:07
+P776,Maria Etezadi,1992,34,Male,Vataja Apasmara,2023,3,Clobazam + Topiramate,06-03-26 16:09
+P777,Nicole Hansen,1991,35,Male,Sannipataja Apasmara,1997,29,Phenytoin,16-12-25 20:31
+P778,Andrew Allen,1971,55,Female,Vataja Apasmara,2014,12,Valproic Acid + Topiramate + Levetiracetam,19-01-26 09:24
+P779,Mick Brown,1962,64,Female,Vataja Apasmara,2022,4,Carbamazepine + Levetiracetam,10-02-26 21:42
+P780,Linda Cazamias,1955,71,Female,Sannipataja Apasmara,2026,0,Levetiracetam + Carbamazepine,29-04-26 05:01
+P781,Keith Dawkins,1969,57,Female,Vataja Apasmara,2016,10,Levetiracetam,18-04-26 03:06
+P782,Maria Bertelson,1993,33,Male,Sannipataja Apasmara,2025,1,Lamotrigine + Levetiracetam,11-04-26 22:34
+P783,Tracy Hopkins,1986,40,Male,Vataja Apasmara,1999,27,Valproic Acid + Lamotrigine + Levetiracetam,17-04-26 19:02
+P784,Odella Nelson,1998,28,Male,Pittaja Apasmara,2001,25,Lamotrigine + Levetiracetam,08-03-26 08:32
+P785,Katherine Nockton,1954,72,Male,Vataja Apasmara,2010,16,Lamotrigine + Levetiracetam,02-03-26 07:03
+P786,Neoma Murray,1999,27,Female,Vataja Apasmara,2026,0,Oxcarbazepine,14-03-26 06:24
+P787,Nora Pelletier,1999,27,Male,Pittaja Apasmara,2017,9,Lamotrigine + Topiramate,07-01-26 06:29
+P788,Catherine Glotzbach,1973,53,Male,Sannipataja Apasmara,1990,36,Levetiracetam + Clobazam + Carbamazepine,01-05-26 03:20
+P789,Cindy Stewart,1992,34,Male,Pittaja Apasmara,2008,18,Levetiracetam + Topiramate,23-03-26 22:39
+P790,Katherine Ducich,1992,34,Male,Pittaja Apasmara,1997,29,Oxcarbazepine + Carbamazepine,08-01-26 18:19
+P791,Mike Kennedy,1961,65,Male,Vataja Apasmara,2015,11,Levetiracetam,30-01-26 22:16
+P792,Don Weiss,1999,27,Female,Vataja Apasmara,2015,11,Clobazam + Carbamazepine,22-12-25 12:39
+P793,Christine Phan,1975,51,Female,Kaphaja Apasmara,2021,5,Levetiracetam + Lamotrigine,28-01-26 19:39
+P794,Maxwell Schwartz,1961,65,Female,Sannipataja Apasmara,1988,38,Levetiracetam,10-02-26 02:48
+P795,Corinna Mitchell,2007,19,Male,Vataja Apasmara,2022,4,Valproic Acid + Oxcarbazepine + Clobazam,23-02-26 22:26
+P796,Corey-Lock,1985,41,Female,Pittaja Apasmara,2014,12,Valproic Acid,28-04-26 11:50
+P797,Dionis Lloyd,1983,43,Female,Vataja Apasmara,2004,22,Clobazam + Levetiracetam,06-01-26 12:42
+P798,Todd Sumrall,1966,60,Female,Kaphaja Apasmara,1983,43,Valproic Acid,22-01-26 09:01
+P799,Jane Waco,1984,42,Female,Vataja Apasmara,2025,1,Topiramate,29-12-25 04:36
+P800,Roy Franzï¿½ï¿½,1982,44,Male,Pittaja Apasmara,1994,32,Lamotrigine,23-04-26 07:50
+P801,John Dryer,1968,58,Male,Sannipataja Apasmara,1995,31,Carbamazepine + Oxcarbazepine,26-04-26 10:34
+P802,Neil Knudson,1990,36,Female,Vataja Apasmara,2005,21,Carbamazepine,10-04-26 20:59
+P803,Nathan Gelder,1995,31,Male,Kaphaja Apasmara,2006,20,Clobazam + Lamotrigine + Valproic Acid,25-05-26 14:52
+P804,Alyssa Tate,1966,60,Female,Vataja Apasmara,2010,16,Levetiracetam + Clobazam,17-03-26 02:42
+P805,Pauline Chand,1976,50,Male,Pittaja Apasmara,2003,23,Phenytoin + Valproic Acid,26-01-26 16:26
+P806,Andy Reiter,1998,28,Female,Sannipataja Apasmara,2011,15,Levetiracetam + Carbamazepine + Valproic Acid,17-02-26 05:14
+P807,Lindsay Shagiari,1993,33,Female,Vataja Apasmara,2026,0,Phenytoin + Valproic Acid,15-03-26 03:11
+P808,Jessica Myrick,2004,22,Female,Vataja Apasmara,2026,0,Levetiracetam + Clobazam,06-06-26 12:14
+P809,Russell Applegate,1969,57,Female,Vataja Apasmara,1999,27,Levetiracetam,25-12-25 02:25
+P810,Arianne Irving,1980,46,Female,Vataja Apasmara,1983,43,Valproic Acid,21-03-26 05:17
+P811,Michael Chen,1951,75,Female,Pittaja Apasmara,1993,33,Valproic Acid,08-03-26 14:14
+P812,Tom Boeckenhauer,1995,31,Male,Vataja Apasmara,1997,29,Carbamazepine,24-01-26 16:40
+P813,Victoria Wilson,1962,64,Male,Pittaja Apasmara,1986,40,Levetiracetam + Oxcarbazepine,25-12-25 04:36
+P814,Paul Lucas,1958,68,Female,Vataja Apasmara,1985,41,Lamotrigine,24-04-26 12:30
+P815,Gary Hwang,1977,49,Female,Sannipataja Apasmara,2004,22,Levetiracetam + Valproic Acid,22-04-26 14:37
+P816,Caroline Jumper,1998,28,Female,Pittaja Apasmara,2007,19,Phenytoin,24-05-26 06:32
+P817,Mike Caudle,1995,31,Male,Vataja Apasmara,2023,3,Oxcarbazepine,17-02-26 05:47
+P818,Benjamin Venier,1993,33,Female,Sannipataja Apasmara,2010,16,Levetiracetam,06-03-26 06:04
+P819,Jeremy Farry,1996,30,Female,Kaphaja Apasmara,2008,18,Carbamazepine + Phenytoin + Levetiracetam,24-02-26 15:52
+P820,Ellis Ballard,1961,65,Male,Kaphaja Apasmara,1977,49,Clobazam + Levetiracetam,02-02-26 06:16
+P821,Mike Pelletier,1987,39,Female,Sannipataja Apasmara,2015,11,Carbamazepine,13-02-26 06:09
+P822,Jim Mitchum,1965,61,Female,Sannipataja Apasmara,2009,17,Levetiracetam + Carbamazepine,07-06-26 09:18
+P823,Carl Ludwig,1954,72,Male,Vataja Apasmara,1963,63,Levetiracetam + Carbamazepine,03-02-26 05:25
+P824,Chloris Kastensmidt,1985,41,Male,Sannipataja Apasmara,1993,33,Valproic Acid,10-04-26 15:17
+P825,Deborah Brumfield,1986,40,Male,Sannipataja Apasmara,1994,32,Levetiracetam + Clobazam + Valproic Acid,26-01-26 00:25
+P826,Pamela Coakley,1983,43,Male,Sannipataja Apasmara,2009,17,Oxcarbazepine + Valproic Acid + Lamotrigine,03-03-26 09:59
+P827,Victoria Brennan,1982,44,Male,Sannipataja Apasmara,1987,39,Lamotrigine + Levetiracetam,24-02-26 17:50
+P828,Emily Phan,1973,53,Male,Vataja Apasmara,1998,28,Lamotrigine + Phenytoin,30-03-26 22:17
+P829,Ivan Gibson,2002,24,Male,Vataja Apasmara,2009,17,Topiramate,13-04-26 19:46
+P830,Joni Sundaresam,1997,29,Male,Kaphaja Apasmara,2000,26,Topiramate + Carbamazepine,07-02-26 12:10
+P831,Bobby Odegard,1970,56,Male,Vataja Apasmara,1979,47,Lamotrigine,09-04-26 16:10
+P832,Aimee Bixby,2008,18,Male,Vataja Apasmara,2020,6,Lamotrigine,18-04-26 09:25
+P833,Julia West,1973,53,Male,Pittaja Apasmara,2012,14,Oxcarbazepine,04-05-26 23:24
+P834,Jeremy Ellison,1966,60,Male,Pittaja Apasmara,2002,24,Valproic Acid + Levetiracetam,14-01-26 03:19
+P835,Edward Becker,1994,32,Female,Pittaja Apasmara,1996,30,Topiramate + Levetiracetam,20-01-26 03:56
+P836,Paul Knutson,1954,72,Male,Sannipataja Apasmara,1998,28,Topiramate,31-05-26 04:43
+P837,Christopher Schild,1957,69,Female,Sannipataja Apasmara,1968,58,Levetiracetam,26-01-26 20:19
+P838,Sheri Gordon,1966,60,Male,Vataja Apasmara,1972,54,Carbamazepine + Oxcarbazepine,13-03-26 17:37
+P839,Charlotte Melton,1957,69,Male,Kaphaja Apasmara,1959,67,Levetiracetam,17-05-26 04:43
+P840,Clay Ludtke,1976,50,Female,Vataja Apasmara,2019,7,Valproic Acid,22-05-26 04:52
+P841,Jesus Ocampo,2004,22,Female,Vataja Apasmara,2013,13,Topiramate,16-05-26 08:04
+P842,Anthony Witt,2003,23,Male,Vataja Apasmara,2006,20,Levetiracetam + Clobazam,24-04-26 06:57
+P843,Dianna Vittorini,1952,74,Male,Sannipataja Apasmara,1994,32,Lamotrigine + Valproic Acid,10-02-26 12:05
+P844,Adam Hart,1981,45,Male,Vataja Apasmara,2006,20,Levetiracetam,24-05-26 19:24
+P845,Sanjit Chand,1984,42,Female,Vataja Apasmara,2012,14,Valproic Acid,13-05-26 02:25
+P846,Mick Crebagga,1972,54,Female,Sannipataja Apasmara,1994,32,Valproic Acid,29-03-26 21:23
+P847,Tonja Turnell,1993,33,Male,Sannipataja Apasmara,2014,12,Valproic Acid + Levetiracetam,03-04-26 12:48
+P848,Anne Pryor,1994,32,Female,Vataja Apasmara,2016,10,Levetiracetam,12-04-26 02:34
+P849,Dan Lawera,1974,52,Male,Vataja Apasmara,1979,47,Clobazam,25-05-26 07:34
+P850,Naresj Patel,1995,31,Male,Vataja Apasmara,2002,24,Clobazam,11-05-26 07:48
+P851,Vivek Grady,2001,25,Female,Sannipataja Apasmara,2016,10,Levetiracetam,09-02-26 11:47
+P852,Muhammed Yedwab,1974,52,Male,Sannipataja Apasmara,2017,9,Levetiracetam + Valproic Acid,01-01-26 18:18
+P853,Rick Duston,1999,27,Male,Kaphaja Apasmara,2007,19,Levetiracetam,14-03-26 10:47
+P854,Dennis Pardue,1985,41,Male,Sannipataja Apasmara,2026,0,Levetiracetam,01-06-26 19:58
+P855,Maribeth Dona,1992,34,Female,Vataja Apasmara,2023,3,Phenytoin + Clobazam,30-05-26 13:09
+P856,Maribeth Yedwab,1969,57,Male,Vataja Apasmara,2021,5,Lamotrigine,01-01-26 18:34
+P857,George Bell,2008,18,Female,Pittaja Apasmara,2011,15,Carbamazepine + Phenytoin,08-03-26 14:37
+P858,Cynthia Arntzen,1981,45,Female,Vataja Apasmara,2018,8,Levetiracetam,15-01-26 12:01
+P859,Max Engle,1953,73,Male,Kaphaja Apasmara,2020,6,Topiramate,15-02-26 06:51
+P860,Jas O'Carroll,1979,47,Male,Vataja Apasmara,2025,1,Valproic Acid,12-05-26 13:47
+P861,Marina Lichtenstein,1954,72,Male,Vataja Apasmara,1986,40,Valproic Acid + Oxcarbazepine + Levetiracetam,21-01-26 07:59
+P862,Parhena Norris,1953,73,Female,Vataja Apasmara,1967,59,Levetiracetam + Valproic Acid,21-05-26 01:51
+P863,Jenna Caffey,1989,37,Male,Kaphaja Apasmara,2002,24,Valproic Acid + Levetiracetam,25-03-26 14:54
+P864,James Galang,1991,35,Male,Vataja Apasmara,2000,26,Carbamazepine + Topiramate,24-04-26 10:33
+P865,Philisse Overcash,1960,66,Female,Vataja Apasmara,2000,26,Clobazam + Levetiracetam,07-03-26 19:58
+P866,Marc Crier,2008,18,Female,Pittaja Apasmara,2016,10,Phenytoin,14-02-26 00:07
+P867,Alan Shonely,2001,25,Female,Sannipataja Apasmara,2020,6,Valproic Acid + Lamotrigine,26-02-26 18:25
+P868,Natalie Webber,1994,32,Male,Pittaja Apasmara,2005,21,Oxcarbazepine + Levetiracetam + Lamotrigine,26-12-25 11:08
+P869,Toby Braunhardt,1995,31,Female,Vataja Apasmara,2018,8,Oxcarbazepine + Carbamazepine,09-01-26 05:43
+P870,Bill Stewart,1989,37,Male,Sannipataja Apasmara,1993,33,Levetiracetam + Topiramate + Phenytoin,28-04-26 21:42
+P871,Fred Hopkins,2000,26,Female,Sannipataja Apasmara,2002,24,Topiramate + Levetiracetam,02-04-26 19:01
+P872,Valerie Mitchum,1957,69,Female,Vataja Apasmara,1973,53,Levetiracetam,09-06-26 20:52
+P873,Sarah Foster,1971,55,Male,Vataja Apasmara,2010,16,Carbamazepine + Lamotrigine,27-05-26 01:49
+P874,Hilary Holden,1965,61,Female,Sannipataja Apasmara,2020,6,Lamotrigine,03-06-26 09:58
+P875,Christina DeMoss,1983,43,Female,Vataja Apasmara,1997,29,Valproic Acid + Levetiracetam + Lamotrigine,08-02-26 02:00
+P876,Hunter Lopez,1991,35,Female,Pittaja Apasmara,2025,1,Lamotrigine,23-03-26 18:13
+P877,Thea Hendricks,1980,46,Male,Vataja Apasmara,1994,32,Valproic Acid,07-04-26 07:42
+P878,Michelle Moray,2003,23,Female,Vataja Apasmara,2020,6,Clobazam,24-12-25 00:54
+P879,Neola Schneider,1983,43,Female,Sannipataja Apasmara,2026,0,Valproic Acid + Carbamazepine,12-01-26 12:51
+P880,Robert Barroso,1964,62,Male,Sannipataja Apasmara,1988,38,Valproic Acid,02-03-26 11:56
+P881,Rob Dowd,1984,42,Female,Sannipataja Apasmara,2015,11,Levetiracetam + Carbamazepine,02-06-26 09:36
+P882,Shaun Weien,1983,43,Female,Vataja Apasmara,2026,0,Levetiracetam,05-02-26 20:42
+P883,Sylvia Foulston,2006,20,Female,Sannipataja Apasmara,2026,0,Lamotrigine,13-02-26 07:58
+P884,Eric Barreto,1997,29,Female,Vataja Apasmara,2016,10,Topiramate + Levetiracetam,07-02-26 10:37
+P885,Sean Braxton,1963,63,Male,Sannipataja Apasmara,1967,59,Lamotrigine,08-04-26 05:02
+P886,Pamela Stobb,1982,44,Female,Sannipataja Apasmara,2026,0,Levetiracetam + Oxcarbazepine + Valproic Acid,27-12-25 07:26
+P887,Claudia Bergmann,1955,71,Female,Pittaja Apasmara,2015,11,Carbamazepine,06-05-26 15:36
+P888,Troy Staebel,1993,33,Female,Vataja Apasmara,2002,24,Levetiracetam,14-04-26 16:28
+P889,Herbert Flentye,1973,53,Female,Kaphaja Apasmara,2021,5,Clobazam + Oxcarbazepine,03-04-26 05:17
+P890,Henia Zydlo,1961,65,Male,Sannipataja Apasmara,1995,31,Levetiracetam,04-02-26 12:50
+P891,Phillina Ober,1964,62,Male,Sannipataja Apasmara,1977,49,Carbamazepine + Topiramate,28-03-26 00:49
+P892,Arthur Gainer,1997,29,Male,Pittaja Apasmara,2019,7,Levetiracetam + Phenytoin,02-01-26 07:59
+P893,Steven Cartwright,1998,28,Female,Sannipataja Apasmara,2005,21,Lamotrigine,14-01-26 22:25
+P894,Cynthia Delaney,1955,71,Female,Sannipataja Apasmara,1963,63,Lamotrigine,15-05-26 09:24
+P895,Jamie Kunitz,1959,67,Male,Kaphaja Apasmara,2008,18,Clobazam,11-01-26 23:00
+P896,Jeremy Pistek,1975,51,Male,Sannipataja Apasmara,2001,25,Levetiracetam + Lamotrigine + Phenytoin,21-02-26 08:10
+P897,Debra Catini,1964,62,Male,Kaphaja Apasmara,1967,59,Levetiracetam + Carbamazepine,06-01-26 16:53
+P898,John Lee,1951,75,Female,Vataja Apasmara,2021,5,Lamotrigine,15-02-26 13:27
+P899,Jay Kimmel,1978,48,Female,Sannipataja Apasmara,1993,33,Topiramate,08-06-26 03:17
+P900,Filia McAdams,1964,62,Male,Kaphaja Apasmara,1969,57,Levetiracetam + Carbamazepine + Oxcarbazepine,10-02-26 22:35
+P901,Logan Haushalter,1951,75,Male,Pittaja Apasmara,1975,51,Levetiracetam + Valproic Acid + Lamotrigine,11-03-26 01:49
+P902,Anna Gayman,1952,74,Male,Vataja Apasmara,1992,34,Valproic Acid + Levetiracetam,13-04-26 13:26
+P903,David Bremer,1995,31,Male,Kaphaja Apasmara,2008,18,Carbamazepine,08-06-26 08:45
+P904,Emily Ducich,1970,56,Male,Kaphaja Apasmara,2016,10,Levetiracetam + Phenytoin,31-03-26 21:26
+P905,Erin Mull,2001,25,Female,Sannipataja Apasmara,2003,23,Levetiracetam,22-02-26 00:22
+P906,Dianna Arnett,2006,20,Male,Pittaja Apasmara,2022,4,Levetiracetam,06-04-26 10:40
+P907,Joni Wasserman,1965,61,Male,Sannipataja Apasmara,2016,10,Topiramate + Levetiracetam,18-03-26 10:02
+P908,Sara Luxemburg,1981,45,Female,Pittaja Apasmara,1998,28,Oxcarbazepine + Valproic Acid,21-01-26 11:50
+P909,Raymond Messe,1992,34,Male,Sannipataja Apasmara,2019,7,Valproic Acid + Oxcarbazepine,31-01-26 04:42
+P910,Max Ludwig,1977,49,Female,Vataja Apasmara,2017,9,Valproic Acid,08-01-26 06:35
+P911,Craig Carroll,1954,72,Male,Kaphaja Apasmara,2015,11,Topiramate + Levetiracetam,15-04-26 08:06
+P912,Stewart Carmichael,2005,21,Male,Pittaja Apasmara,2011,15,Carbamazepine,14-01-26 07:03
+P913,Greg Guthrie,1999,27,Male,Pittaja Apasmara,2017,9,Lamotrigine,31-05-26 09:25
+P914,Darren Powers,1982,44,Male,Pittaja Apasmara,1994,32,Clobazam + Valproic Acid,24-04-26 05:11
+P915,Jim Epp,1961,65,Male,Sannipataja Apasmara,2015,11,Levetiracetam + Lamotrigine,31-05-26 14:54
+P916,Roy Phan,1976,50,Female,Vataja Apasmara,1986,40,Valproic Acid,08-02-26 22:42
+P917,Resi Pï¿½ï¿½,1996,30,Female,Sannipataja Apasmara,2009,17,Lamotrigine + Valproic Acid,02-03-26 20:33
+P918,Thomas Boland,1954,72,Male,Vataja Apasmara,1990,36,Levetiracetam,01-01-26 13:35
+P919,Brad Eason,1969,57,Male,Sannipataja Apasmara,1971,55,Oxcarbazepine,04-06-26 14:52
+P920,Mathew Reese,1970,56,Female,Vataja Apasmara,2009,17,Lamotrigine + Topiramate,23-02-26 15:33
+P921,Jill Fjeld,1986,40,Male,Pittaja Apasmara,2000,26,Oxcarbazepine,22-01-26 10:35
+P922,Adrian Shami,1977,49,Male,Vataja Apasmara,2004,22,Valproic Acid,23-04-26 22:21
+P923,Joseph Airdo,1978,48,Female,Vataja Apasmara,1989,37,Valproic Acid,19-05-26 05:30
+P924,Grace Kelly,1980,46,Female,Vataja Apasmara,2022,4,Levetiracetam + Clobazam,28-02-26 00:45
+P925,Phillip Breyer,1993,33,Female,Sannipataja Apasmara,2024,2,Levetiracetam + Valproic Acid,03-05-26 23:03
+P926,Heather Kirkland,1993,33,Male,Vataja Apasmara,1997,29,Clobazam + Levetiracetam,28-04-26 20:58
+P927,Frank Olsen,1984,42,Male,Sannipataja Apasmara,2018,8,Oxcarbazepine,11-02-26 08:48
+P928,Brian Thompson,2000,26,Male,Pittaja Apasmara,2012,14,Levetiracetam,09-05-26 17:43
+P929,Lauren Leatherbury,2005,21,Male,Vataja Apasmara,2010,16,Valproic Acid,20-03-26 09:02
+P930,Janet Lee,1956,70,Female,Sannipataja Apasmara,1964,62,Levetiracetam + Valproic Acid,03-05-26 19:15
+P931,Erin Ashbrook,1977,49,Male,Sannipataja Apasmara,1997,29,Levetiracetam + Phenytoin + Lamotrigine,26-04-26 05:22
+P932,Cathy Hwang,2002,24,Female,Kaphaja Apasmara,2024,2,Oxcarbazepine + Topiramate,10-04-26 14:26
+P933,Neil Ducich,1996,30,Female,Vataja Apasmara,2015,11,Levetiracetam,27-04-26 13:35
+P934,Bruce Stewart,1985,41,Female,Pittaja Apasmara,1994,32,Clobazam + Valproic Acid,21-12-25 21:03
+P935,Barbara Fisher,1963,63,Female,Vataja Apasmara,1971,55,Levetiracetam,28-12-25 15:03
+P936,Katharine Harms,1990,36,Female,Kaphaja Apasmara,2002,24,Valproic Acid + Topiramate,10-01-26 03:32
+P937,Frank Atkinson,1977,49,Female,Vataja Apasmara,1980,46,Clobazam + Carbamazepine,14-05-26 18:04
+P938,Giulietta Weimer,1988,38,Male,Sannipataja Apasmara,2000,26,Valproic Acid + Phenytoin + Carbamazepine,27-04-26 18:39
+P939,Frank Hawley,1972,54,Male,Pittaja Apasmara,2006,20,Carbamazepine + Topiramate,31-03-26 15:57
+P940,Ralph Kennedy,1989,37,Female,Vataja Apasmara,1993,33,Oxcarbazepine + Levetiracetam,30-12-25 14:23
+P941,Alyssa Crouse,1970,56,Female,Kaphaja Apasmara,1984,42,Valproic Acid,04-02-26 01:48
+P942,Gary McGarr,1992,34,Male,Pittaja Apasmara,2008,18,Levetiracetam + Carbamazepine,24-04-26 09:22
+P943,Noah Childs,1986,40,Female,Vataja Apasmara,2000,26,Carbamazepine + Phenytoin,07-02-26 11:44
+P944,Charles Crestani,1972,54,Female,Kaphaja Apasmara,2026,0,Carbamazepine,13-02-26 09:13
+P945,Michelle Ellison,1980,46,Female,Sannipataja Apasmara,2014,12,Valproic Acid,09-02-26 23:04
+P946,Benjamin Patterson,1968,58,Female,Vataja Apasmara,1991,35,Valproic Acid + Levetiracetam,29-12-25 05:47
+P947,Mark Packer,2002,24,Female,Kaphaja Apasmara,2025,1,Levetiracetam + Oxcarbazepine,16-05-26 12:00
+P948,John Castell,2002,24,Male,Pittaja Apasmara,2020,6,Valproic Acid + Levetiracetam,13-02-26 13:03
+P949,Luke Foster,1965,61,Male,Sannipataja Apasmara,1983,43,Valproic Acid + Clobazam,11-05-26 00:44
+P950,Paul Gonzalez,1986,40,Female,Pittaja Apasmara,2017,9,Levetiracetam,04-06-26 19:14
+P951,Erica Hernandez,1971,55,Male,Vataja Apasmara,1993,33,Lamotrigine + Levetiracetam,23-02-26 05:29
+P952,Tracy Blumstein,1988,38,Female,Vataja Apasmara,1999,27,Levetiracetam + Phenytoin,11-06-26 04:05
+P953,Dean Katz,1973,53,Male,Sannipataja Apasmara,1987,39,Topiramate + Oxcarbazepine,11-06-26 05:24
+P954,Carol Darley,1995,31,Female,Vataja Apasmara,1997,29,Topiramate + Carbamazepine,11-03-26 13:36
+P955,Adam Shillingsburg,1959,67,Male,Kaphaja Apasmara,2023,3,Topiramate + Valproic Acid,10-06-26 14:05
+P956,Amy Cox,1993,33,Female,Vataja Apasmara,2017,9,Valproic Acid + Levetiracetam,10-06-26 03:14
+P957,Ryan Akin,1984,42,Male,Vataja Apasmara,2016,10,Lamotrigine,11-02-26 08:05
+P958,Dianna Wilson,1965,61,Male,Vataja Apasmara,2012,14,Lamotrigine,15-01-26 12:23
+P959,Michael Dominguez,2006,20,Male,Vataja Apasmara,2015,11,Levetiracetam,16-04-26 09:42
+P960,Duane Benoit,1954,72,Female,Pittaja Apasmara,1996,30,Clobazam,30-03-26 03:43
+P961,Erica Hackney,1968,58,Female,Vataja Apasmara,2020,6,Valproic Acid + Phenytoin,17-12-25 09:51
+P962,Ann Steele,2001,25,Male,Vataja Apasmara,2012,14,Lamotrigine,21-03-26 23:43
+P963,Edward Hooks,1955,71,Male,Pittaja Apasmara,2001,25,Lamotrigine + Levetiracetam + Topiramate,11-02-26 04:31
+P964,Mary Zewe,1971,55,Female,Vataja Apasmara,2010,16,Levetiracetam + Phenytoin,17-01-26 07:37
+P965,Scot Coram,1996,30,Male,Pittaja Apasmara,2013,13,Lamotrigine,31-05-26 12:57
+P966,Rick Hansen,2005,21,Female,Vataja Apasmara,2010,16,Oxcarbazepine + Levetiracetam,11-04-26 15:24
+P967,Craig Carreira,1963,63,Male,Pittaja Apasmara,2009,17,Lamotrigine,07-06-26 12:03
+P968,Seth Vernon,1964,62,Male,Kaphaja Apasmara,2001,25,Levetiracetam + Carbamazepine + Lamotrigine,23-05-26 02:21
+P969,Joe Elijah,1978,48,Male,Vataja Apasmara,2003,23,Levetiracetam,20-03-26 05:45
+P970,Ann Chong,1975,51,Female,Vataja Apasmara,1977,49,Levetiracetam + Carbamazepine,19-01-26 21:39
+P971,Robert Waldorf,1997,29,Female,Vataja Apasmara,2005,21,Valproic Acid,15-12-25 18:50
+P972,Dean Braden,1973,53,Male,Vataja Apasmara,1997,29,Carbamazepine + Lamotrigine,20-01-26 05:09
+P973,Joy Daniels,1960,66,Female,Pittaja Apasmara,1985,41,Valproic Acid,14-04-26 20:25
+P974,Alan Schoenberger,1991,35,Female,Sannipataja Apasmara,2001,25,Clobazam,05-06-26 13:34
+P975,Allen Armold,1951,75,Male,Pittaja Apasmara,2011,15,Oxcarbazepine,26-03-26 23:10
+P976,Muhammed MacIntyre,1980,46,Male,Vataja Apasmara,1986,40,Valproic Acid,16-04-26 14:03
+P977,Christy Brittain,2000,26,Male,Kaphaja Apasmara,2008,18,Valproic Acid + Levetiracetam,11-03-26 04:47
+P978,Joy Smith,1957,69,Female,Vataja Apasmara,1998,28,Valproic Acid + Lamotrigine,15-04-26 14:23
+P979,Luke Weiss,1971,55,Female,Vataja Apasmara,2016,10,Topiramate,30-05-26 03:09
+P980,Sample Company A,1960,66,Male,Vataja Apasmara,1993,33,Carbamazepine + Lamotrigine,26-12-25 10:03
+P981,Rob Williams,1995,31,Female,Kaphaja Apasmara,2002,24,Oxcarbazepine,09-06-26 09:54
+P982,Stuart Calhoun,1965,61,Male,Vataja Apasmara,1975,51,Phenytoin,10-01-26 03:28
+P983,Anne McFarland,1986,40,Male,Sannipataja Apasmara,2015,11,Levetiracetam,27-03-26 21:50
+P984,Berenike Kampe,2006,20,Female,Pittaja Apasmara,2009,17,Carbamazepine,08-05-26 19:04
+P985,Rick Huthwaite,1987,39,Male,Vataja Apasmara,1993,33,Levetiracetam + Oxcarbazepine,01-03-26 07:23
+P986,Gene McClure,1990,36,Male,Vataja Apasmara,1995,31,Oxcarbazepine + Clobazam,18-12-25 13:02
+P987,Marc Crier,1978,48,Female,Sannipataja Apasmara,1988,38,Lamotrigine + Clobazam,07-02-26 03:10
+P988,Valerie Mitchum,1957,69,Female,Vataja Apasmara,1971,55,Carbamazepine,25-02-26 03:05
+P989,Guy Phonely,1953,73,Male,Vataja Apasmara,1972,54,Levetiracetam,28-12-25 12:11
+P990,George Bell,1995,31,Male,Kaphaja Apasmara,2024,2,Valproic Acid,07-02-26 05:55
+P991,Carol Triggs,1998,28,Male,Vataja Apasmara,2017,9,Clobazam + Levetiracetam,26-12-25 15:21
+P992,Carl Weiss,1965,61,Male,Pittaja Apasmara,2006,20,Lamotrigine + Oxcarbazepine,21-05-26 18:06
+P993,Skye Norling,1995,31,Female,Sannipataja Apasmara,2015,11,Lamotrigine,07-06-26 01:23
+P994,Ed Braxton,1978,48,Male,Vataja Apasmara,2005,21,Levetiracetam,24-12-25 04:01
+P995,Jane Waco,1955,71,Male,Vataja Apasmara,1990,36,Carbamazepine,04-03-26 05:45
+P996,Ken Black,2008,18,Female,Vataja Apasmara,2023,3,Valproic Acid,08-02-26 03:31
+P997,Matt Collister,1979,47,Female,Sannipataja Apasmara,2006,20,Valproic Acid,27-05-26 04:18
+P998,Clytie Kelty,2000,26,Female,Pittaja Apasmara,2013,13,Valproic Acid + Oxcarbazepine,25-02-26 15:35
+P999,Rick Duston,1980,46,Male,Pittaja Apasmara,2000,26,Valproic Acid + Levetiracetam + Lamotrigine,18-01-26 11:23
+P1000,Theone Pippenger,2002,24,Male,Sannipataja Apasmara,2011,15,Carbamazepine + Valproic Acid + Topiramate,11-05-26 22:07
+P1001,Greg Guthrie,2002,24,Male,Vataja Apasmara,2021,5,Carbamazepine,22-01-26 09:53
+P1002,Zuschuss Carroll,2005,24,Male,Vataja Apasmara,2017,9,Phenytoin + Valproic Acid + Topiramate,06-05-26 12:35
+P1003,Corey Catlett,2005,21,Male,Vataja Apasmara,2025,1,Valproic Acid + Carbamazepine,02-02-26 11:43
+P1004,Kelly Andreada,2005,21,Male,Pittaja Apasmara,2025,1,Phenytoin,30-03-26 02:19
+P1005,Tamara Chand,2005,21,Male,Vataja Apasmara,2020,6,Topiramate,24-12-25 07:50
+P1006,Deborah Brumfield,2004,21,Male,Sannipataja Apasmara,2016,10,Levetiracetam,06-01-26 01:50
+P1007,Toby Ritter,2004,22,Male,Vataja Apasmara,2021,5,Lamotrigine,20-04-26 16:55
+P1008,Bart Folk,2004,22,Female,Sannipataja Apasmara,2006,20,Levetiracetam + Oxcarbazepine,31-03-26 18:37
+P1009,Maribeth Schnelling,2005,22,Female,Sannipataja Apasmara,2013,13,Carbamazepine,03-05-26 11:22
+P1010,Emily Ducich,2005,21,Male,Pittaja Apasmara,2023,3,Oxcarbazepine,21-04-26 14:36
+P1011,Irene Maddox,2005,21,Male,Vataja Apasmara,2026,0,Clobazam,18-03-26 18:36
+P1012,Maribeth Yedwab,2005,21,Male,Pittaja Apasmara,2016,10,Valproic Acid,12-02-26 09:56
+P1013,Magdelene Morse,2005,21,Female,Vataja Apasmara,2016,10,Valproic Acid,20-05-26 13:21
+P1014,Mark Packer,2002,24,Male,Vataja Apasmara,2006,20,Phenytoin + Carbamazepine,05-03-26 05:22
+P1015,Anthony Witt,2005,24,Male,Sannipataja Apasmara,2026,0,Levetiracetam + Carbamazepine,03-03-26 01:25
+P1016,Sandra Flanagan,2005,21,Female,Sannipataja Apasmara,2007,19,Phenytoin,23-01-26 23:55
+P1017,Steve Nguyen,2005,21,Female,Vataja Apasmara,2021,5,Valproic Acid + Clobazam + Levetiracetam,20-05-26 09:33
+P1018,Ruben Dartt,2005,21,Female,Kaphaja Apasmara,2007,19,Valproic Acid + Levetiracetam,24-12-25 13:20
+P1019,Kean Thornton,2004,21,Female,Vataja Apasmara,2018,8,Lamotrigine,18-04-26 23:56
+P1020,Adrian Hane,2005,22,Male,Vataja Apasmara,2023,3,Carbamazepine,10-05-26 16:29
+P1021,Brian Moss,2005,21,Female,Sannipataja Apasmara,2017,9,Lamotrigine,12-02-26 09:17
+P1022,Ben Wallace,2003,21,Female,Sannipataja Apasmara,2016,10,Levetiracetam,02-05-26 18:49
+P1023,Henry Goldwyn,2005,23,Female,Kaphaja Apasmara,2020,6,Valproic Acid,07-02-26 22:46
+P1024,Sandra Glassco,2005,21,Male,Kaphaja Apasmara,2023,3,Carbamazepine + Valproic Acid,10-03-26 06:57
+P1025,Ralph Kennedy,2005,21,Male,Sannipataja Apasmara,2020,6,Levetiracetam,22-05-26 06:42
+P1026,Scot Wooten,2005,21,Female,Kaphaja Apasmara,2018,8,Lamotrigine,18-05-26 02:23
+P1027,Rob Williams,2005,21,Male,Kaphaja Apasmara,2018,8,Valproic Acid,09-06-26 22:59
+P1028,Thais Sissman,2005,21,Male,Vataja Apasmara,2010,16,Carbamazepine + Levetiracetam,19-05-26 18:34
+P1029,Jennifer Braxton,2004,21,Male,Pittaja Apasmara,2009,17,Levetiracetam,02-04-26 10:50
+P1030,Erica Hernandez,2005,22,Female,Vataja Apasmara,2009,17,Levetiracetam,02-03-26 18:30
+P1031,Brian Stugart,2005,21,Male,Vataja Apasmara,2023,3,Phenytoin + Levetiracetam + Valproic Acid,27-03-26 10:02
+P1032,Julie Kriz,2004,21,Male,Kaphaja Apasmara,2021,5,Carbamazepine,21-05-26 06:10
+P1033,Randy Ferguson,2005,22,Male,Kaphaja Apasmara,2011,15,Valproic Acid + Lamotrigine,23-02-26 23:05
+P1034,Dan Lawera,2005,21,Male,Vataja Apasmara,2023,3,Lamotrigine,05-02-26 22:34
+P1035,William Brown,2005,21,Female,Sannipataja Apasmara,2026,0,Lamotrigine + Levetiracetam + Valproic Acid,12-01-26 15:27
+P1036,Trudy Brown,2005,21,Female,Sannipataja Apasmara,2008,18,Lamotrigine + Clobazam,15-12-25 03:13
+P1037,Christy Brittain,2005,21,Male,Vataja Apasmara,2021,5,Oxcarbazepine + Phenytoin,02-04-26 03:28
+P1038,Grant Thornton,2004,21,Female,Kaphaja Apasmara,2017,9,Levetiracetam,02-03-26 10:00
+P1039,Dean Katz,2004,22,Male,Sannipataja Apasmara,2011,15,Topiramate,18-05-26 14:10
+P1040,Theresa Swint,2005,22,Female,Vataja Apasmara,2021,5,Carbamazepine,05-03-26 23:27
+P1041,Denny Ordway,2004,21,Male,Vataja Apasmara,2007,19,Carbamazepine,14-02-26 04:46
+P1042,Art Ferguson,2005,22,Male,Vataja Apasmara,2012,14,Valproic Acid,05-02-26 09:51
+P1043,Richard Bierner,2004,21,Male,Vataja Apasmara,2023,3,Levetiracetam,03-06-26 18:22
+P1044,Andy Reiter,2005,22,Female,Vataja Apasmara,2018,8,Levetiracetam,07-05-26 10:07
+P1045,Dan Reichenbach,2005,21,Female,Vataja Apasmara,2016,10,Carbamazepine + Valproic Acid,10-04-26 05:04
+P1046,Ben Ferrer,2005,21,Male,Kaphaja Apasmara,2023,3,Levetiracetam + Clobazam + Lamotrigine,07-04-26 07:05
+P1047,Larry Blacks,2005,21,Male,Pittaja Apasmara,2021,5,Carbamazepine,10-06-26 23:52
+P1048,Dianna Vittorini,2005,21,Female,Vataja Apasmara,2022,4,Valproic Acid,04-02-26 13:31
+P1049,Neil Knudson,2004,21,Male,Vataja Apasmara,2024,2,Phenytoin,18-05-26 18:38
+P1050,Carlos Soltero,2005,22,Female,Vataja Apasmara,2010,16,Valproic Acid + Levetiracetam,14-02-26 15:14
+P1051,Logan Haushalter,2005,21,Female,Vataja Apasmara,2019,7,Levetiracetam + Lamotrigine + Valproic Acid,09-06-26 06:42
+P1052,Dianna Wilson,2006,21,Female,Sannipataja Apasmara,2009,17,Carbamazepine + Clobazam,17-12-25 19:46
+P1053,Karen Ferguson,2005,20,Female,Pittaja Apasmara,2007,19,Topiramate,26-01-26 02:54
+P1054,Helen Andreada,2003,21,Male,Vataja Apasmara,2022,4,Oxcarbazepine + Valproic Acid,20-01-26 04:31
+P1055,John Huston,2003,23,Female,Vataja Apasmara,2008,18,Clobazam,05-03-26 17:52
+P1056,Linda Cazamias,2003,23,Male,Vataja Apasmara,2022,4,Lamotrigine,26-04-26 07:00
+P1057,Ivan Liston,2006,23,Male,Vataja Apasmara,2016,10,Levetiracetam,05-01-26 22:07
+P1058,Lindsay Shagiari,2005,20,Male,Vataja Apasmara,2010,16,Carbamazepine,28-04-26 08:15
+P1059,Patrick Bzostek,2005,21,Male,Pittaja Apasmara,2021,5,Lamotrigine + Valproic Acid,19-03-26 19:43
+P1060,Caroline Jumper,2005,21,Female,Sannipataja Apasmara,2026,0,Levetiracetam,28-04-26 16:08
+P1061,Heather Kirkland,2006,21,Male,Pittaja Apasmara,2016,10,Levetiracetam + Lamotrigine,03-04-26 21:22
+P1062,Rob Haberlin,2005,20,Male,Vataja Apasmara,2011,15,Phenytoin + Levetiracetam,01-03-26 18:57
+P1063,Alan Shonely,2005,21,Female,Pittaja Apasmara,2017,9,Lamotrigine + Carbamazepine,15-01-26 05:43
+P1064,Arthur Prichep,2005,21,Female,Sannipataja Apasmara,2011,15,Valproic Acid,10-02-26 04:44
+P1065,Allen Goldenen,2005,21,Female,Sannipataja Apasmara,2017,9,Valproic Acid + Phenytoin + Levetiracetam,26-05-26 23:13
+P1066,Chloris Kastensmidt,2005,21,Male,Pittaja Apasmara,2009,17,Clobazam + Levetiracetam,01-02-26 14:37
+P1067,Liz Thompson,2005,21,Female,Sannipataja Apasmara,2010,16,Valproic Acid,20-12-25 18:30
+P1068,Beth Thompson,2005,21,Male,Vataja Apasmara,2019,7,Levetiracetam + Valproic Acid,09-03-26 06:00
+P1069,Steven Cartwright,2006,21,Female,Vataja Apasmara,2021,5,Carbamazepine,10-01-26 05:59
+P1070,Catherine Glotzbach,2005,20,Male,Vataja Apasmara,2015,11,Levetiracetam,14-01-26 17:19
+P1071,Arthur Wiediger,2004,21,Male,Kaphaja Apasmara,2023,3,Oxcarbazepine,11-05-26 20:57
+P1072,Roger Barcio,2005,22,Female,Sannipataja Apasmara,2019,7,Levetiracetam,11-02-26 14:05
+P1073,Maris LaWare,2005,21,Female,Pittaja Apasmara,2024,2,Levetiracetam + Carbamazepine,30-03-26 09:33
+P1074,Victoria Brennan,2005,21,Male,Sannipataja Apasmara,2015,11,Levetiracetam + Valproic Acid,08-01-26 18:00
+P1075,Scott Williamson,2005,21,Female,Pittaja Apasmara,2010,16,Valproic Acid,18-01-26 17:09
+P1076,Neola Schneider,2005,21,Male,Sannipataja Apasmara,2015,11,Levetiracetam + Lamotrigine,16-12-25 22:49
+P1077,Dorothy Badders,2005,21,Female,Sannipataja Apasmara,2023,3,Levetiracetam,28-12-25 03:58
+P1078,Matt Hagelstein,2001,21,Female,Kaphaja Apasmara,2021,5,Lamotrigine,21-05-26 14:49
+P1079,Dennis Kane,2004,25,Male,Vataja Apasmara,2007,19,Oxcarbazepine,23-02-26 13:55
+P1080,Erin Ashbrook,2005,22,Female,Vataja Apasmara,2017,9,Levetiracetam,18-02-26 09:02
+P1081,Bobby Trafton,2005,21,Male,Sannipataja Apasmara,2014,12,Levetiracetam + Lamotrigine,01-01-26 11:50
+P1082,Laura Armstrong,2005,21,Male,Pittaja Apasmara,2024,2,Levetiracetam,19-12-25 01:01
+P1083,Greg Matthias,2005,21,Male,Vataja Apasmara,2021,5,Phenytoin,10-05-26 10:11
+P1084,Alex Avila,2005,21,Male,Kaphaja Apasmara,2023,3,Valproic Acid + Topiramate,06-04-26 10:56
+P1085,Denny Blanton,2005,21,Female,Vataja Apasmara,2010,16,Levetiracetam + Topiramate,09-01-26 13:34
+P1086,Doug Jacobs,2006,21,Female,Pittaja Apasmara,2025,1,Carbamazepine + Valproic Acid,13-02-26 13:26
+P1087,Quincy Jones,2005,20,Male,Kaphaja Apasmara,2007,19,Lamotrigine + Phenytoin + Topiramate,23-04-26 03:09
+P1088,Sanjit Jacobs,2005,21,Female,Pittaja Apasmara,2009,17,Topiramate,11-02-26 11:46
+P1089,Toby Gnade,2005,21,Male,Vataja Apasmara,2026,0,Levetiracetam + Clobazam,31-01-26 20:01
+P1090,Barry Franz,2004,21,Male,Vataja Apasmara,2009,17,Lamotrigine + Valproic Acid,05-04-26 03:40
+P1091,Justin MacKendrick,2005,22,Male,Vataja Apasmara,2026,0,Phenytoin + Carbamazepine + Levetiracetam,20-05-26 06:06
+P1092,Troy Staebel,2005,21,Male,Vataja Apasmara,2019,7,Levetiracetam,10-02-26 14:49
+P1093,Maria Zettner,2005,21,Male,Sannipataja Apasmara,2024,2,Lamotrigine + Levetiracetam,07-02-26 02:43
+P1094,Mitch Webber,2004,21,Female,Sannipataja Apasmara,2022,4,Carbamazepine + Levetiracetam + Valproic Acid,03-06-26 01:25
+P1095,Mark Van Huff,2005,22,Male,Sannipataja Apasmara,2010,16,Valproic Acid,15-01-26 04:12
+P1096,Allen Armold,2005,21,Male,Vataja Apasmara,2015,11,Levetiracetam,27-02-26 19:04
+P1097,Sean Miller,2006,21,Female,Kaphaja Apasmara,2020,6,Levetiracetam,23-05-26 23:27
+P1098,Tom Prescott,2005,20,Male,Pittaja Apasmara,2013,13,Carbamazepine + Levetiracetam,19-12-25 20:25
+P1099,Michael Kennedy,2004,21,Female,Pittaja Apasmara,2017,9,Lamotrigine + Valproic Acid + Levetiracetam,28-03-26 19:50
+P1100,Chad Sievert,2006,22,Male,Pittaja Apasmara,2026,0,Phenytoin + Levetiracetam,22-01-26 18:46
+P1101,John Lucas,2005,20,Male,Vataja Apasmara,2019,7,Lamotrigine,30-12-25 16:11
+P1102,Allen Rosenblatt,2005,21,Male,Kaphaja Apasmara,2010,16,Carbamazepine + Levetiracetam + Valproic Acid,24-03-26 15:17
+P1103,Liz MacKendrick,2005,21,Male,Vataja Apasmara,2024,2,Levetiracetam + Topiramate,05-06-26 13:34
+P1104,Jim Karlsson,2005,21,Male,Sannipataja Apasmara,2020,6,Valproic Acid,13-04-26 04:23
+P1105,Filia McAdams,2004,21,Female,Vataja Apasmara,2015,11,Phenytoin + Clobazam,09-01-26 14:42
+P1106,Sarah Foster,2006,22,Male,Vataja Apasmara,2013,13,Lamotrigine + Carbamazepine,22-01-26 01:56
+P1107,Patrick Jones,2005,20,Male,Sannipataja Apasmara,2016,10,Clobazam + Levetiracetam + Lamotrigine,19-01-26 00:56
+P1108,Christine Sundaresam,2006,21,Male,Vataja Apasmara,2016,10,Oxcarbazepine + Lamotrigine,04-04-26 14:12
+P1109,Barry Blumstein,2005,20,Male,Kaphaja Apasmara,2012,14,Valproic Acid + Lamotrigine,23-01-26 08:34
+P1110,Ricardo Sperren,2005,21,Male,Sannipataja Apasmara,2012,14,Valproic Acid,09-06-26 13:15
+P1111,Valerie Dominguez,2005,21,Male,Sannipataja Apasmara,2026,0,Levetiracetam,19-02-26 20:21
+P1112,Jeremy Lonsdale,2005,21,Female,Vataja Apasmara,2011,15,Phenytoin + Valproic Acid,12-02-26 10:05
+P1113,Dionis Lloyd,2006,21,Male,Sannipataja Apasmara,2016,10,Valproic Acid,04-02-26 02:18
+P1114,Meg O'Connel,2005,20,Male,Kaphaja Apasmara,2014,12,Levetiracetam + Lamotrigine,31-01-26 14:40
+P1115,Ben Peterman,2005,21,Male,Sannipataja Apasmara,2020,6,Topiramate,01-05-26 10:12
+P1116,Michael Stewart,2006,21,Male,Vataja Apasmara,2023,3,Levetiracetam + Valproic Acid,15-12-25 13:16
+P1117,Susan Vittorini,2005,20,Female,Pittaja Apasmara,2023,3,Carbamazepine,11-01-26 14:10
+P1118,Becky Castell,2005,21,Male,Pittaja Apasmara,2021,5,Lamotrigine,24-02-26 07:08
+P1119,Elizabeth Moffitt,2005,21,Male,Kaphaja Apasmara,2007,19,Lamotrigine + Valproic Acid,30-03-26 09:13
+P1120,Bradley Drucker,2001,21,Male,Kaphaja Apasmara,2009,17,Phenytoin + Lamotrigine,01-06-26 05:28
+P1121,Helen Wasserman,2005,25,Male,Vataja Apasmara,2016,10,Lamotrigine,26-04-26 03:32
+P1122,Karen Carlisle,2005,21,Male,Vataja Apasmara,2017,9,Valproic Acid,02-04-26 10:47
+P1123,Brendan Murry,2006,21,Male,Pittaja Apasmara,2016,10,Topiramate + Lamotrigine,01-05-26 14:37
+P1124,Kristina Nunn,2005,20,Female,Kaphaja Apasmara,2014,12,Levetiracetam,28-03-26 20:38
+P1125,Justin Deggeller,2005,21,Male,Sannipataja Apasmara,2019,7,Valproic Acid + Topiramate,15-01-26 15:06
+P1126,Robert Waldorf,2005,21,Female,Kaphaja Apasmara,2009,17,Levetiracetam + Topiramate,31-03-26 02:51
+P1127,Kelly Williams,2005,21,Male,Sannipataja Apasmara,2015,11,Lamotrigine + Levetiracetam,27-03-26 04:54
+P1128,Chris Cortes,2005,21,Male,Vataja Apasmara,2012,14,Valproic Acid + Lamotrigine,01-03-26 12:41
+P1129,Rick Hansen,2005,21,Female,Vataja Apasmara,2019,7,Levetiracetam + Topiramate,14-02-26 17:52
+P1130,Debra Catini,2004,21,Female,Vataja Apasmara,2008,18,Levetiracetam + Topiramate,08-01-26 20:24
+P1131,Gary Mitchum,2005,22,Male,Vataja Apasmara,2016,10,Lamotrigine + Valproic Acid,31-03-26 17:43
+P1132,Carl Ludwig,2005,21,Female,Kaphaja Apasmara,2019,7,Levetiracetam + Valproic Acid,06-01-26 13:22
+P1133,Paul Van Hugh,2005,21,Male,Sannipataja Apasmara,2024,2,Levetiracetam + Oxcarbazepine + Carbamazepine,08-06-26 02:40
+P1134,Alice McCarthy,2004,21,Male,Sannipataja Apasmara,2020,6,Clobazam,04-02-26 01:55
+P1135,Scott Cohen,2004,22,Male,Vataja Apasmara,2008,18,Levetiracetam,19-12-25 20:10
+P1136,Christine Phan,2006,22,Male,Vataja Apasmara,2008,18,Valproic Acid + Carbamazepine,01-06-26 20:41
+P1137,Roy Franzï¿½ï¿½,2006,20,Male,Sannipataja Apasmara,2009,17,Clobazam + Valproic Acid,05-03-26 12:05
+P1138,Adam Bellavance,2006,20,Male,Vataja Apasmara,2015,11,Valproic Acid + Carbamazepine + Lamotrigine,04-01-26 23:27
+P1139,Erica Hackney,2004,20,Female,Sannipataja Apasmara,2016,10,Phenytoin + Levetiracetam + Oxcarbazepine,09-06-26 09:45
+P1140,Michael Nguyen,2004,22,Male,Vataja Apasmara,2023,3,Levetiracetam + Topiramate + Lamotrigine,26-12-25 21:26
+P1141,Kelly Lampkin,2005,22,Male,Vataja Apasmara,2015,11,Levetiracetam + Oxcarbazepine + Lamotrigine,23-03-26 11:23
+P1142,Michael Paige,2004,21,Male,Pittaja Apasmara,2010,16,Lamotrigine + Oxcarbazepine,17-01-26 11:05
+P1143,Barry Franzï¿½ï¿½,2005,22,Male,Pittaja Apasmara,2026,0,Valproic Acid,06-03-26 03:45
+P1144,Maxwell Schwartz,2005,21,Male,Vataja Apasmara,2019,7,Levetiracetam + Lamotrigine + Topiramate,27-05-26 12:15
+P1145,Katherine Murray,2004,21,Female,Vataja Apasmara,2019,7,Valproic Acid,22-01-26 05:55
+P1146,Brad Eason,2006,22,Female,Vataja Apasmara,2019,7,Levetiracetam,01-01-26 16:46
+P1147,Christina VanderZanden,2005,20,Male,Vataja Apasmara,2019,7,Valproic Acid + Levetiracetam,29-01-26 23:19
+P1148,Speros Goranitis,2006,21,Male,Vataja Apasmara,2025,1,Phenytoin,17-03-26 06:51
+P1149,Nora Preis,2005,20,Male,Vataja Apasmara,2025,1,Levetiracetam,20-05-26 20:07
+P1150,Sean Braxton,2005,21,Male,Vataja Apasmara,2008,18,Lamotrigine,15-05-26 06:49
+P1151,Adam Shillingsburg,2005,21,Female,Pittaja Apasmara,2018,8,Carbamazepine + Levetiracetam,09-01-26 07:05
+P1152,Harry Marie,2005,21,Male,Vataja Apasmara,2025,1,Phenytoin,10-05-26 07:33
+P1153,Mike Gockenbach,2004,21,Female,Sannipataja Apasmara,2025,1,Levetiracetam + Phenytoin,23-04-26 00:15
+P1154,Tamara Manning,2005,22,Male,Pittaja Apasmara,2016,10,Valproic Acid,25-03-26 06:51
+P1155,Bill Eplett,2005,21,Male,Vataja Apasmara,2015,11,Phenytoin + Oxcarbazepine + Valproic Acid,25-02-26 21:13
+P1156,Ann Steele,2004,21,Male,Pittaja Apasmara,2024,2,Levetiracetam,16-05-26 11:27
+P1157,Eleni McCrary,2005,22,Male,Pittaja Apasmara,2017,9,Phenytoin + Lamotrigine + Valproic Acid,05-06-26 23:41
+P1158,Joseph Airdo,2005,21,Male,Sannipataja Apasmara,2009,17,Phenytoin + Valproic Acid,23-05-26 04:23
+P1159,Troy Blackwell,2006,21,Female,Pittaja Apasmara,2024,2,Levetiracetam + Phenytoin,01-05-26 11:17
+P1160,Paul Prost,2006,20,Female,Vataja Apasmara,2019,7,Phenytoin + Lamotrigine,04-01-26 06:39
+P1161,Michelle Lonsdale,2005,20,Female,Vataja Apasmara,2007,19,Valproic Acid + Levetiracetam,14-02-26 04:24
+P1162,Clay Rozendal,2005,21,Female,Pittaja Apasmara,2016,10,Carbamazepine,08-05-26 11:30
+P1163,Mary Zewe,2005,21,Male,Vataja Apasmara,2021,5,Phenytoin + Topiramate + Carbamazepine,23-05-26 05:50
+P1164,Ross Baird,2005,21,Male,Sannipataja Apasmara,2013,13,Valproic Acid,06-02-26 17:18
+P1165,Annie Zypern,2005,21,Male,Vataja Apasmara,2025,1,Carbamazepine,03-06-26 07:37
+P1166,Jonathan Howell,2005,21,Male,Vataja Apasmara,2015,11,Lamotrigine + Phenytoin + Oxcarbazepine,30-12-25 22:08
+P1167,Christina Anderson,2005,21,Male,Pittaja Apasmara,2007,19,Lamotrigine + Carbamazepine,20-04-26 07:33
+P1168,Pierre Wener,2005,21,Male,Sannipataja Apasmara,2015,11,Oxcarbazepine + Carbamazepine,14-01-26 20:32
+P1169,Shaun Weien,2006,21,Male,Sannipataja Apasmara,2016,10,Phenytoin + Levetiracetam + Carbamazepine,12-01-26 16:04
+P1170,Anne McFarland,2005,20,Male,Kaphaja Apasmara,2018,8,Lamotrigine + Oxcarbazepine,04-03-26 15:49
+P1171,Bill Donatelli,2006,21,Male,Vataja Apasmara,2021,5,Lamotrigine + Valproic Acid,28-01-26 19:05
+P1172,Christopher Martinez,2005,20,Male,Vataja Apasmara,2011,15,Levetiracetam + Valproic Acid,18-05-26 05:45
+P1173,Christopher Schild,2005,21,Male,Pittaja Apasmara,2012,14,Phenytoin + Lamotrigine + Levetiracetam,04-04-26 15:21
+P1174,James Galang,2005,21,Male,Sannipataja Apasmara,2007,19,Valproic Acid + Lamotrigine,02-04-26 22:52
+P1175,Shahid Collister,2005,21,Male,Vataja Apasmara,2024,2,Carbamazepine,17-12-25 03:37
+P1176,Chuck Sachs,2004,21,Female,Sannipataja Apasmara,2008,18,Levetiracetam + Lamotrigine + Clobazam,05-01-26 19:02
+P1177,Mike Kennedy,2004,22,Male,Sannipataja Apasmara,2007,19,Carbamazepine + Phenytoin,25-03-26 20:23
+P1178,Carlos Meador,2005,22,Male,Sannipataja Apasmara,2016,10,Levetiracetam,14-03-26 22:59
+P1179,Phillip Flathmann,2005,21,Female,Vataja Apasmara,2014,12,Carbamazepine,26-03-26 07:43
+P1180,Greg Maxwell,2005,21,Male,Vataja Apasmara,2018,8,Topiramate,30-03-26 04:01
+P1181,Dan Campbell,2005,21,Female,Sannipataja Apasmara,2017,9,Lamotrigine + Clobazam,28-03-26 13:05
+P1182,Frank Olsen,2005,21,Female,Vataja Apasmara,2018,8,Clobazam + Valproic Acid,22-12-25 11:15
+P1183,Alan Hwang,2005,21,Male,Pittaja Apasmara,2012,14,Levetiracetam + Topiramate + Lamotrigine,18-02-26 01:53
+P1184,Claudia Bergmann,2005,21,Female,Vataja Apasmara,2022,4,Clobazam + Levetiracetam,22-12-25 22:06
+P1185,Tim Brockman,2005,21,Male,Kaphaja Apasmara,2018,8,Carbamazepine + Valproic Acid,09-06-26 15:00
+P1186,Katherine Ducich,2006,21,Female,Pittaja Apasmara,2018,8,Levetiracetam,24-01-26 08:10
+P1187,John Murray,2005,20,Male,Sannipataja Apasmara,2024,2,Oxcarbazepine,28-01-26 12:41
+P1188,Sonia Cooley,2005,21,Male,Vataja Apasmara,2014,12,Clobazam + Levetiracetam,28-05-26 02:27
+P1189,Bryan Spruell,2005,21,Female,Sannipataja Apasmara,2026,0,Valproic Acid,01-01-26 07:06
+P1190,Bill Tyler,2005,21,Female,Vataja Apasmara,2025,1,Valproic Acid + Lamotrigine,25-01-26 07:07
+P1191,Luke Schmidt,2006,21,Female,Sannipataja Apasmara,2008,18,Oxcarbazepine,08-05-26 18:06
+P1192,Ralph Ritter,2005,20,Male,Vataja Apasmara,2023,3,Levetiracetam,08-03-26 14:27
+P1193,Ken Lonsdale,2005,21,Male,Vataja Apasmara,2025,1,Levetiracetam,10-04-26 01:59
+P1194,Daniel Byrd,2005,21,Male,Vataja Apasmara,2011,15,Lamotrigine,26-03-26 17:34
+P1195,Brenda Bowman,2005,21,Female,Vataja Apasmara,2013,13,Lamotrigine + Levetiracetam,20-02-26 02:11
+P1196,Peter Bï¿½ï¿,2004,21,Male,Vataja Apasmara,2018,8,Clobazam,30-04-26 11:20
+P1197,Dorothy Wardle,2005,22,Male,Vataja Apasmara,2025,1,Carbamazepine,02-02-26 04:43
+P1198,Cynthia Delaney,2005,21,Male,Pittaja Apasmara,2010,16,Levetiracetam,06-03-26 06:56
+P1199,Thomas Thornton,2005,21,Male,Sannipataja Apasmara,2025,1,Valproic Acid + Levetiracetam,27-03-26 12:35
+P1200,Don Jones,2005,21,Male,Sannipataja Apasmara,2018,8,Phenytoin + Carbamazepine,18-04-26 21:55
+P1201,Lori Olson,2005,21,Male,Vataja Apasmara,2025,1,Levetiracetam + Valproic Acid,31-01-26 12:50
+P1202,Seth Vernon,2005,21,Female,Vataja Apasmara,2024,2,Valproic Acid + Lamotrigine,02-01-26 03:35
+P1203,Ken Dana,2005,21,Male,Vataja Apasmara,2022,4,Levetiracetam + Phenytoin,07-02-26 04:38
+P1204,Nicole Brennan,2005,21,Male,Sannipataja Apasmara,2007,19,Carbamazepine + Clobazam,19-12-25 10:15
+P1205,Anne Pryor,2005,21,Male,Vataja Apasmara,2011,15,Valproic Acid + Topiramate,12-05-26 04:12
+P1206,Joel Eaton,2005,21,Male,Kaphaja Apasmara,2017,9,Valproic Acid,13-02-26 15:36
+P1207,Adrian Barton,2005,21,Male,Vataja Apasmara,2019,7,Levetiracetam + Oxcarbazepine,16-04-26 18:31
+P1208,Parhena Norris,2002,21,Male,Kaphaja Apasmara,2024,2,Carbamazepine + Clobazam,03-03-26 19:27
+P1209,John Castell,2005,24,Male,Vataja Apasmara,2010,16,Levetiracetam,20-04-26 14:32
+P1210,Philip Fox,2005,21,Female,Pittaja Apasmara,2007,19,Lamotrigine,30-01-26 05:36
+P1211,Bart Watters,2003,21,Male,Pittaja Apasmara,2009,17,Lamotrigine,21-05-26 07:55
