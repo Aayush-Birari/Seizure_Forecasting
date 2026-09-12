@@ -107,19 +107,16 @@ else:
     ml_model_category = "Neutral"
     
     if food_input:
-        # Unpack the two streams: UI Display vs. ML Engine constraints
         display_category, ml_model_category = get_food_category(food_input)
         
         if display_category == "Unknown":
             st.warning(f"⚠️ '{food_input}' is not in our clinical database.")
-            
-            # Fetch dynamic list and append the "Other" option
+        
             dynamic_categories = get_all_categories()
             options = dynamic_categories + ["Other (Add New Category)"]
             
             selected_cat = st.selectbox("Help us learn! What category best describes this food?", options)
-            
-            # If the user selects "Other", trigger the custom text box
+
             final_category = selected_cat
             if selected_cat == "Other (Add New Category)":
                 final_category = st.text_input("Enter the new category name (e.g., Fruits, Dairy):").strip().title()
@@ -144,18 +141,13 @@ else:
     with col2:
         fatigue = st.slider("Travel Fatigue Score (1-10)", 1, 10, 1)
         tod_quarter = st.selectbox("Time of Day", ["Morning", "Afternoon", "Evening", "Night"])
-        
-        # NEW: Lunar Phase Dropdown
         lunar = st.selectbox("Current Lunar Phase", ["Unknown", "New Moon", "First Quarter", "Full Moon", "Last Quarter"])
         
     with col3:
         missed_meds = st.radio("Missed Medication Dose?", [False, True])
         seizure_event = st.radio("Seizure Experienced Today?", [False, True])
-        
-        # NEW: Prodromal Symptom Dropdown
         prodromal = st.selectbox("Prodromal Symptoms (Early Warnings)", ["None", "Visual Aura", "Dizziness", "Mood Shift", "Unusual Smell", "Auditory Changes"])
 
-    # CONDITIONAL EVENT FIELDS (Remains the same)
     if seizure_event:
         with st.expander("⚠️ Seizure Event Details", expanded=True):
             duration = st.number_input("Estimated Duration (Seconds)", min_value=0, value=30)
@@ -164,9 +156,7 @@ else:
 
     st.divider()
 
-    # --- INFERENCE EXECUTION ---
     if st.button("Calculate Threshold Risk", type="primary"):
-        # Pass ALL the exact variables your DAG model is trained on
         todays_inputs = {
             'food_trigger_category': ml_model_category, 
             'stress_level': stress,
