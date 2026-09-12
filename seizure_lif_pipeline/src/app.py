@@ -15,9 +15,9 @@ if 'page' not in st.session_state:
 # --- HELPER: PASSWORD VALIDATION ---
 def is_valid_password(pwd):
     if len(pwd) < 8: return False
-    if not re.search(r"[A-Z]", pwd): return False # Capital letter
-    if not re.search(r"\d", pwd): return False    # Number
-    if not re.search(r"[!@#$%^&*(),.?\":{}|<>]", pwd): return False # Symbol
+    if not re.search(r"[A-Z]", pwd): return False
+    if not re.search(r"\d", pwd): return False
+    if not re.search(r"[!@#$%^&*(),.?\":{}|<>]", pwd): return False
     return True
 
 # ==========================================
@@ -60,8 +60,6 @@ if not st.session_state['logged_in']:
             with col1:
                 b_year = st.number_input("Birth Year", min_value=1900, max_value=2026, value=2000)
                 gen = st.selectbox("Gender", ["Male", "Female", "Other"])
-                
-                # Updated Ayurvedic Diagnosis Dropdown
                 b_diag = st.selectbox("Baseline Diagnosis", [
                     "Pittaja Apasmara", 
                     "Kaphaja Apasmara", 
@@ -129,7 +127,6 @@ else:
                 else:
                     st.error("Please enter a valid category name.")
         else:
-            # Displays the exact custom category the user entered (e.g., "Fruits")
             st.info(f"AI Detected Trigger Category: **{display_category}**")
 
    # --- FULL LOGGING METRICS ---
