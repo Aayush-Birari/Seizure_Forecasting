@@ -6,7 +6,6 @@ def forecast_seizure_risk(daily_log_evidence):
     """
     Predicts seizure risk based on today's lifestyle inputs.
     """
-    # Dynamically resolve absolute path to load the artifact
     BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
     model_path = os.path.join(BASE_DIR, "models", "lif_bayesian_model_latest.pkl")
     
@@ -18,8 +17,7 @@ def forecast_seizure_risk(daily_log_evidence):
         variables=['seizure_experienced'], 
         evidence=daily_log_evidence
     )
-    
-    # Extract and return the probability of 'True'
+
     risk_percentage = result.values[1] * 100 
     
     if risk_percentage > 70:
@@ -34,7 +32,7 @@ def forecast_seizure_risk(daily_log_evidence):
 if __name__ == "__main__":
     # Updated to match the exact categorical values from the PostgreSQL database
     todays_inputs = {
-        'food_trigger_category': 'High-Spice',  # Changed from 'High_Acidity'
+        'food_trigger_category': 'High-Spice',
         'stress_level': 4, 
         'missed_med_dose': True
     }
