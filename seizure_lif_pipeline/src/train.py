@@ -12,8 +12,6 @@ def update_model():
         print("No data found. Aborting training.")
         return
 
-    # Define the DAG (Directed Acyclic Graph)
-    # Re-engineered DAG to eliminate data leakage and direct causal paths
     model = DiscreteBayesianNetwork([
         ('food_trigger_category', 'seizure_experienced'),
         ('stress_level', 'seizure_experienced'),
@@ -26,14 +24,11 @@ def update_model():
 
     print("Calculating Probabilities from Historical Logs...")
     
-    # FIX: Rely on the library's default Maximum Likelihood Estimation
     model.fit(df)
 
-    # Dynamically resolve absolute path for MLOps stability
     BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
     model_path = os.path.join(BASE_DIR, "models", "lif_bayesian_model_latest.pkl")
-    
-    # Ensure the models directory exists
+
     os.makedirs(os.path.dirname(model_path), exist_ok=True)
     
     joblib.dump(model, model_path)
