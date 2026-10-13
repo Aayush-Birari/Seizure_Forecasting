@@ -1,4 +1,3 @@
-'''mermaid
 graph TD
     subgraph External ["External Environment"]
         User((Patient / User))
@@ -46,4 +45,3 @@ graph TD
     class Database db;
     class PGData,ModelVol volume;
     class GoogleFit,Jenkins external;
-'''
